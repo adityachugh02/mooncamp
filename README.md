@@ -1,5 +1,5 @@
 # Activités Mooncamp
-Mooncamp est un projet conçu pour aider les jeunes de 8 à 12 ans à explorer les possibilités de l'exploration spatiale.
+Mooncamp est un projet conçu pour faire découvrir aux jeunes de 8 à 12 ans les possibilités de l'exploration spatiale via des activités aux thématiques scientifiques.
 
 ### De quoi avons-nous besoin pour vivre sur la Lune ou sur Mars ?
 Pour trouver des solutions à cette question, les jeunes astronautes sont poussés à se questionner sur des thématiques scientifiques, de dévelopement durable et des enjeux sociaux.
