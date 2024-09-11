@@ -7,7 +7,7 @@ Pour trouver des solutions à cette question, les jeunes astronautes sont pouss�
 Ci-dessous se trouve une proposition de thématiques inspirées de [Moon Camp Challenge](https://mooncampchallenge.org/educational-resources/) de l'ESA. 
 Cette proposition suit un scénario régie par des questions principales:
 *  Comment se rendre sur la Lune?
-*  Maintenant que nous y sommes, nous avons besoin d'un endroit où vivre. Comment construit-t-on une habitation?
+*  Maintenant que nous y sommes, nous avons besoin d'un endroit où vivre. Comment construit-on une habitation?
 *  Nos ressources initiales sont presques épuisées, comment peut-on obtenir de l'eau, produire de l'énergie et cultiver des récoltes?
 *  Nous voici bien installés sur la lune, comment s'organiserait notre communauté spaciale ?
 *  L'exploration peut finalement commencer !
