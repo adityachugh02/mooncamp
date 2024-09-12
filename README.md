@@ -1,19 +1,27 @@
 # Activités Mooncamp
-Mooncamp est un projet conçu pour faire découvrir aux jeunes de 8 à 12 ans les possibilités de l'exploration spatiale via des activités aux thématiques scientifiques.
+Mooncamp est un projet conçu pour aider les jeunes de 8 à 12 ans à découvrir les possibilités de l'exploration spatiale par le biais d'activités scientifiques.
 
 ### De quoi avons-nous besoin pour vivre sur la Lune ou sur Mars ?
-Pour trouver des solutions à cette question, les jeunes astronautes sont poussés à se questionner sur des thématiques scientifiques, de dévelopement durable et des enjeux sociaux.
+Pour trouver des solutions à cette question, les jeunes astronautes sont encouragés à se pencher sur des questions scientifiques, sociales et de développement durable.
 
 Ci-dessous se trouve une proposition de thématiques inspirées de [Moon Camp Challenge](https://mooncampchallenge.org/educational-resources/) de l'ESA. 
-Cette proposition suit un scénario régie par des questions principales:
-*  Comment se rendre sur la Lune?
-*  Maintenant que nous y sommes, nous avons besoin d'un endroit où vivre. Comment construit-on une habitation?
-*  Nos ressources initiales sont presques épuisées, comment peut-on:
-    *  obtenir de l'eau ?
-    *  produire de l'énergie ?
-    *  cultiver des récoltes?
-*  Nous voici bien installés sur la lune, comment s'organiserait notre communauté spaciale ?
-*  L'exploration peut finalement commencer !
+Cette proposition suit un scénario régi par des questions clés :
+* Comment se rendre sur la Lune?
+
+Maintenant que nous y sommes, nous avons besoin d'un endroit où vivre.
+
+* Comment construit-on une habitation?
+
+Nos ressources initiales sont presques épuisées, comment peut-on:
+
+*  Obtenir de l'eau ?
+*  Produire de l'énergie ?
+*  Cultiver des récoltes?
+
+Nous voici bien installés sur la lune, 
+ 
+* Comment s'organiserait notre communauté spaciale ?
+* L'exploration peut finalement commencer !
 
 | Thématiques              | Ressources | Sujets |
 | ----------------         | ------  | ----  |
