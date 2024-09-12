@@ -21,7 +21,10 @@ Nos ressources initiales sont presques épuisées, comment peut-on:
 Nous voici bien installés sur la lune, 
  
 * Comment s'organiserait notre communauté spaciale ?
-* L'exploration peut finalement commencer !
+  
+L'exploration peut finalement commencer !
+
+* Comment mener à bien une mission spatiale ?
 
 | Thématiques              | Ressources | Sujets |
 | ----------------         | ------  | ----  |
@@ -30,8 +33,9 @@ Nous voici bien installés sur la lune,
 | Gestion de l'eau         | [Water on the Moon – Filtering lunar ice cores to extract water](https://mooncampchallenge.org/water-on-the-moon-filtering-lunar-ice-cores-to-extract-water/) & [Extracting Water from Lunar Soil – Learning about filtration and distillation](https://mooncampchallenge.org/extracting-water-from-lunar-soil-learning-about-filtration-and-distillation/) | Mathématiques, chimie |
 | Énergie                  | [Power from Sunlight – Powering space exploration with solar energy](https://mooncampchallenge.org/power-from-sunlight-powering-space-exploration-with-solar-energy/) & [Power from Water – How to produce oxygen and hydrogen on the Moon](https://mooncampchallenge.org/power-from-water-how-to-produce-oxygen-and-hydrogen-on-the-moon/) | Physique, chimie |
 | Nutrition                | [AstroFood – Learning about edible plants in Space](https://mooncampchallenge.org/astrofood-learning-about-edible-plants-in-space/) & [AstroFarmer – Learning about conditions for plant growth](https://mooncampchallenge.org/astrofarmer-learning-about-conditions-for-plant-growth/) & [AstroCrops – Growing plants for future space missions](https://mooncampchallenge.org/astrocrops-growing-plants-for-future-space-missions/) | Biologie |
-| Exploration              | [Moon Rover – Building a solar powered rover](https://mooncampchallenge.org/moon-rover-building-a-solar-powered-rover/) & [Mission on the Moon – Program a classmate to complete a mission on the Moon](https://mooncampchallenge.org/mission-on-the-moon-program-a-classmate-to-complete-a-mission-on-the-moon/) | Physique, technologie, mathématiques, informatique  |
 | Vie en collectif         | [Moon Constitution – How would a future lunar community be organised?](https://mooncampchallenge.org/moon-constitution-how-would-a-future-lunar-community-be-organised/) & [Astronaut Logbook: A week in the life of an astronaut with Samantha Cristoforetti](https://mooncampchallenge.org/astronaut-logbook/) | Sociologie  |
+| Exploration              | [Moon Rover – Building a solar powered rover](https://mooncampchallenge.org/moon-rover-building-a-solar-powered-rover/) & [Mission on the Moon – Program a classmate to complete a mission on the Moon](https://mooncampchallenge.org/mission-on-the-moon-program-a-classmate-to-complete-a-mission-on-the-moon/) | Physique, technologie, mathématiques, informatique  |
+
 
 
 
