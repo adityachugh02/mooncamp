@@ -42,7 +42,8 @@ L'exploration peut finalement commencer !
 De ces thématiques, 6 activités (dont une activité d'introduction) de 2 heures sont developpées autour d'une question scientifique centrale.
 
 
-
+## Déroulement des activités
+à venir.
 
 ## Protocoles d'activités
 à venir.
