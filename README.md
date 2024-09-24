@@ -43,7 +43,13 @@ De ces thématiques, 6 activités (dont une activité d'introduction) de 2 heure
 
 
 ## Déroulement des activités
-à venir.
+### Transport
+### Construction & matériaux
+### Gestion de l'eau
+### Énergie
+### Nutrition
+### Vie en collectif
+### Exploration
 
 ## Protocoles d'activités
 à venir.
