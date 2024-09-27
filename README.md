@@ -42,8 +42,8 @@ L'exploration peut finalement commencer !
 De ces thématiques, 6 activités (dont une activité d'introduction) de 2 heures sont developpées autour d'une question scientifique centrale.
 
 
-## Déroulement des activités
-### Transport vers la Lune
+# Déroulement des activités
+## Transport vers la Lune
 
 **Objectif de l'activité** : Comprendre les défis du transport spatial et la conception d'un vaisseau spatial capable de se rendre sur la Lune.
 
@@ -75,7 +75,7 @@ De ces thématiques, 6 activités (dont une activité d'introduction) de 2 heure
 
 Cette activité offre une approche pratique pour aborder des concepts de physique, de mathématiques et de travail d'équipe, tout en stimulant l'intérêt des élèves pour l'exploration spatiale.
 
-### Construction d'un abris sur la Lune ou surs Mars
+## Construction d'un abris sur la Lune ou surs Mars
 
 **Objectif de l'activité** : Comprendre comment concevoir et construire un abri sur la Lune ou Mars, en tenant compte des matériaux et des conditions environnementales spécifiques.
 
@@ -99,7 +99,7 @@ Expliquer comment les structures pliées peuvent offrir de la résistance et de 
    - Chaque groupe présente son abri, en expliquant les caractéristiques de protection qu'il offre et les matériaux utilisés.
    - Discussion sur les défis rencontrés lors de la conception et des améliorations possibles.
 
-### Gestion de l'eau
+## Gestion de l'eau
 
 **Objectif de l'activité** : Comprendre comment extraire et gérer l'eau sur la Lune, en explorant les méthodes de filtration et de distillation.
 
@@ -129,7 +129,7 @@ Expliquer comment les structures pliées peuvent offrir de la résistance et de 
    - Les groupes présentent leurs résultats et discutent des implications de la gestion de l'eau sur la Lune.
    - Aborder les défis de l'extraction de l'eau dans un environnement lunaire et les technologies qui pourraient être développées pour améliorer ces processus.
 
-### Gestion de l'énergie
+## Gestion de l'énergie
 
 **Objectif de l'activité** : Comprendre comment l'énergie peut être produite et utilisée dans un contexte spatial, en explorant les concepts de production d'énergie à partir de l'eau et du soleil.
 
@@ -163,7 +163,7 @@ Expliquer comment les structures pliées peuvent offrir de la résistance et de 
    - Conclure sur l'importance de ces sources d'énergie pour l'exploration spatiale et comment elles pourraient être utilisées pour soutenir les astronautes sur la Lune ou Mars.
 
 
-### Nutrition et culture de plantes dans l'espace
+## Nutrition et culture de plantes dans l'espace
 
 
 **Objectif de l'activité** : Comprendre l'importance de la nutrition pour les astronautes et explorer comment cultiver des plantes nutritives adaptées à l'environnement spatial.
@@ -203,7 +203,7 @@ Expliquer comment les structures pliées peuvent offrir de la résistance et de 
 - Encouragez les élèves à réfléchir à l'importance de la durabilité et à la manière dont ces pratiques peuvent être appliquées sur Terre.
 
 
-### Vie en collectif
+## Vie en collectif
 
 **Objectif de l'activité** : Comprendre comment organiser une communauté sur la Lune ou Mars, en explorant les différents aspects de la vie en collectif, tels que les règles, les ressources et les interactions sociales.
 
@@ -233,7 +233,7 @@ Expliquer comment les structures pliées peuvent offrir de la résistance et de 
    - Inviter les élèves à réfléchir à des aspects de leur propre communauté locale qui pourraient être améliorés en tenant compte de leurs expériences lors de cette activité.
 
 
-### Mission d'exploration
+## Mission d'exploration
 
 **Objectif de l'activité** : Comprendre les défis et la planification d'une mission d'exploration sur la Lune ou Mars en utilisant un rover, ainsi que le fonctionnement de l'énergie solaire pour alimenter cet appareil.
 
