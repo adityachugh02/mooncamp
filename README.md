@@ -167,9 +167,103 @@ Cette activité permet aux élèves de développer leur pensée critique, leur c
    - Conclure sur l'importance de ces sources d'énergie pour l'exploration spatiale et comment elles pourraient être utilisées pour soutenir les astronautes sur la Lune ou Mars.
 
 
-### Nutrition
+### Nutrition et culture de plantes dans l'espace
+
+
+**Objectif de l'activité** : Comprendre l'importance de la nutrition pour les astronautes et explorer comment cultiver des plantes nutritives adaptées à l'environnement spatial.
+
+
+#### Déroulement :
+
+1. **Introduction (15 minutes)** :
+   - Présentez aux élèves les plantes et leur importance en tant que source de nourriture pour les astronautes. Expliquez que pour survivre dans l'espace, les astronautes devront cultiver leur propre nourriture.
+   - Discutez des différents types de plantes qui pourraient être cultivées dans l'espace (par exemple, basilic, radis, tomates) et de leurs besoins en nutriments.
+
+2. **Comparaison des plantes (30 minutes)**:
+   - Diviser les élèves en petits groupes et fournir des fiches d'information sur diverses plantes (basilic, radis, tomate, etc.) en mettant l'accent sur leurs valeurs nutritives, leurs temps de croissance et leurs besoins en ressources.
+   - Chaque groupe doit comparer les plantes en fonction des critères suivants :
+     - Valeur nutritive (vitamines, minéraux, etc.)
+     - Temps de croissance
+     - Facilité de culture dans un environnement contrôlé.
+   - Les groupes partagent leurs découvertes avec la classe.
+
+3. **Plantation des graines (30 minutes)** :
+   - Divisez les élèves en petits groupes.
+   - Chaque groupe recevra trois pots, du terreau, des nutriments et des graines.
+   - Les élèves devront planter les graines en suivant des instructions précises (remplir les pots de terreau, ajouter des graines, couvrir légèrement, etc.).
+   - Ils noteront leurs observations dans le carnet de suivi des données.
+
+4. **Observation et mesures (30 minutes)** :
+   - Une fois que les élèves auront planté leurs graines, fournissez-leur des plantes déjà poussées (basilic, radis, tomate) pour qu'ils puissent effectuer leurs mesures.
+   - Les élèves devront mesurer la hauteur de chaque plante à différentes étapes de croissance et noter ces données dans leurs carnets.
+   - Encouragez-les à faire des hypothèses sur la croissance des différentes plantes et sur les conditions optimales pour leur développement.
+
+5. **Conclusion (15 minutes)** :
+   - Rassemblez les groupes pour partager leurs découvertes.
+   - Demandez à chaque groupe de présenter ses conclusions sur quelle plante serait la meilleure pour une mission spatiale, en tenant compte de la nutrition, de la facilité de culture et de l'espace nécessaire.
+
+### Notes :
+- Veillez à prendre en compte d'éventuelles allergies alimentaires lorsque vous discutez des plantes et de leur consommation.
+- Encouragez les élèves à réfléchir à l'importance de la durabilité et à la manière dont ces pratiques peuvent être appliquées sur Terre.
+
+
 ### Vie en collectif
-### Exploration
+
+**Objectif de l'activité** : Comprendre comment organiser une communauté sur la Lune ou Mars, en explorant les différents aspects de la vie en collectif, tels que les règles, les ressources et les interactions sociales.
+
+#### Déroulement de l'activité :
+
+1. **Introduction (15 minutes)**:
+   - Expliquer aux élèves que la vie sur la Lune ou Mars nécessiterait une organisation sociale spécifique pour garantir la survie et le bien-être de tous les habitants.
+   - Présenter les défis uniques d'une colonie lunaire ou martienne, comme l'absence d'atmosphère, la gestion des ressources limitées et la nécessité de collaboration entre les habitants.
+
+2. **Débat sur la communauté (30 minutes)**:
+   - Diviser la classe en petits groupes.
+   - Chaque groupe reçoit des cartes de débat contenant des affirmations concernant l'organisation d'une communauté sur la Lune/Mars (par exemple, sur le système de santé, la gestion des ressources, la gouvernance, etc.).
+   - Les élèves utilisent des cartes sourires et tristes pour indiquer leur accord ou désaccord avec chaque affirmation. Ils doivent discuter en groupe et décider ensemble où placer chaque carte (près du sourire, du triste, ou au milieu).
+   - Après le débat, chaque groupe partage ses résultats avec le reste de la classe.
+
+3. **Rédaction de la Constitution Lunaire (30 minutes)**:
+   - Basé sur les discussions précédentes, chaque groupe doit rédiger sa propre version de la "Constitution Lunaire". Cela inclut des règles et des droits pour les habitants de la communauté, des modalités de gestion des ressources, et des procédures pour prendre des décisions.
+   - Encourager les élèves à penser à des éléments comme l'accès à l'eau, les soins médicaux, la sécurité, et la répartition des ressources.
+
+4. **Création d'un journal de bord (30 minutes)**:
+   - Distribuer un modèle de journal de bord où les élèves peuvent enregistrer des détails sur la vie quotidienne dans leur communauté lunaire/martienne. Par exemple, comment les ressources sont gérées, comment les conflits sont résolus, et comment la communauté s'organise pour des activités sociales.
+   - Les élèves peuvent dessiner ou écrire des histoires sur une journée typique dans leur colonie, y compris leurs tâches, interactions et activités de loisir.
+
+5. **Discussion et conclusion (15 minutes)**:
+   - Conclure l'activité en discutant des différents modèles de communautés que les élèves ont imaginés. 
+   - Discuter de l'importance de la coopération et de la communication dans un environnement hostile, et comment les leçons apprises sur la Lune/Mars pourraient être appliquées sur Terre.
+   - Inviter les élèves à réfléchir à des aspects de leur propre communauté locale qui pourraient être améliorés en tenant compte de leurs expériences lors de cette activité.
+
+
+### Mission d'exploration
+
+**Objectif de l'activité** : Comprendre les défis et la planification d'une mission d'exploration sur la Lune ou Mars en utilisant un rover, ainsi que le fonctionnement de l'énergie solaire pour alimenter cet appareil.
+
+#### Déroulement de l'activité :
+
+1. **Introduction (15 minutes)**:
+   - Présenter les objectifs des missions d'exploration spatiale, en mettant l'accent sur l'importance des rovers pour collecter des échantillons et explorer des terrains inconnus.
+   - Discuter des défis environnementaux sur la Lune/Mars (absence d'atmosphère, terrain difficile, communication retardée).
+
+2. **Activité 1 : Planification de la mission (30 minutes)**:
+   - Diviser les élèves en petits groupes. Chaque groupe doit concevoir une mission pour un rover sur la Lune, en utilisant une grille (5x5) pour définir le chemin du rover, les obstacles et les objectifs (par exemple, collecter un échantillon de glace).
+   - Les élèves notent une séquence d'instructions (ex. "avance, tourne à gauche") pour guider le rover de manière sécurisée à travers la grille.
+   - Chaque groupe présente sa mission à la classe, en expliquant les choix faits pour la planification.
+
+3. **Activité 2 : Construction du rover (60 minutes)**:
+   - Fournir aux élèves des matériaux pour construire un petit rover alimenté par batterie.
+   - Chaque groupe suit les instructions pour assembler leur rover, intégrant un circuit électrique simple.
+   - Une fois la construction terminée, les élèves testent leur rover sur la grille (5x5).
+
+4. **Tests et améliorations (10 minutes)**:
+   - Après les tests, chaque groupe note ce qui a bien fonctionné et ce qui doit être amélioré.
+   - Les élèves discutent des modifications potentielles pour améliorer les performances de leur rover sur la Lune, comme des changements dans le design des roues ou la position des panneaux solaires.
+
+5. **Discussion et conclusion (5 minutes)**:
+   - Conclure en discutant des différents rovers construits et des leçons apprises sur la planification et l'exécution de missions d'exploration.
+   - Aborder l'importance du travail en équipe et de la communication dans un contexte de mission spatiale.
 
 ## Protocoles d'activités
 à venir.
