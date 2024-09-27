@@ -99,8 +99,6 @@ Expliquer comment les structures pliées peuvent offrir de la résistance et de 
    - Chaque groupe présente son abri, en expliquant les caractéristiques de protection qu'il offre et les matériaux utilisés.
    - Discussion sur les défis rencontrés lors de la conception et des améliorations possibles.
 
-Cette activité permet aux élèves de développer leur pensée critique, leur créativité et leur travail d'équipe tout en explorant des concepts scientifiques et architecturaux liés à l'exploration spatiale.
-
 ### Gestion de l'eau
 
 **Objectif de l'activité** : Comprendre comment extraire et gérer l'eau sur la Lune, en explorant les méthodes de filtration et de distillation.
