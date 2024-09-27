@@ -75,8 +75,7 @@ De ces thématiques, 6 activités (dont une activité d'introduction) de 2 heure
 
 Cette activité offre une approche pratique pour aborder des concepts de physique, de mathématiques et de travail d'équipe, tout en stimulant l'intérêt des élèves pour l'exploration spatiale.
 
-### Construction d'un abris sur la Lune ou surs Mars & matériaux
-### Activité : Construction d'un abri sur la Lune
+### Construction d'un abris sur la Lune ou surs Mars
 
 **Objectif de l'activité** : Comprendre comment concevoir et construire un abri sur la Lune ou Mars, en tenant compte des matériaux et des conditions environnementales spécifiques.
 
