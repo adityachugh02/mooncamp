@@ -129,8 +129,7 @@ Expliquer comment les structures pliées peuvent offrir de la résistance et de 
    - Les groupes présentent leurs résultats et discutent des implications de la gestion de l'eau sur la Lune.
    - Aborder les défis de l'extraction de l'eau dans un environnement lunaire et les technologies qui pourraient être développées pour améliorer ces processus.
 
-### Énergie
-### Activité : Gestion de l'énergie pour l'exploration spatiale
+### Gestion de l'énergie
 
 **Objectif de l'activité** : Comprendre comment l'énergie peut être produite et utilisée dans un contexte spatial, en explorant les concepts de production d'énergie à partir de l'eau et du soleil.
 
