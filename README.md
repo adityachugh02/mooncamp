@@ -264,3 +264,20 @@ Expliquer comment les structures pliées peuvent offrir de la résistance et de 
 ## Protocoles d'activités
 à venir.
 
+## Notes
+immersion grace à enveloppes de missions
+
+transport: expliquer les formes et fournir des formes de bas, test de vol: resistance et distance
+
+abris: hexagones de paraffins, différents materiaux, etudes de structures et materiaux.
+
+eau: filtration, distillation demo
+
+energie: panneau solaire avec led, electrolyse ptt en demo
+
+nutrition: jeu de carte pour discuter des valeurs nutritionelles probleme d'optimisation, faire pousser des plantes
+
+vie en collectif: donner une bonne introduction suivi d'un jeu avec un deck de situations problematique à themes à voter et trier, aller au dela: colonisation
+
+exploration: jeux d'echiquier avec bloc scratch en papier 
+
