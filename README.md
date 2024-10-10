@@ -73,7 +73,6 @@ De ces thématiques, 6 activités (dont une activité d'introduction) de 2 heure
    - Chaque groupe présente son vaisseau et explique ses choix de conception.
    - Réflexion sur les difficultés rencontrées et les améliorations possibles.
 
-Cette activité offre une approche pratique pour aborder des concepts de physique, de mathématiques et de travail d'équipe, tout en stimulant l'intérêt des élèves pour l'exploration spatiale.
 
 ## Construction d'un abris sur la Lune ou surs Mars
 
