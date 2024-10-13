@@ -39,27 +39,35 @@ L'activité "Transport vers la Lune" plonge les élèves dans le monde de l'expl
 
 - **Pour les tests :**
   - Espace ouvert pour effectuer les « vols » simulés
-  - Chronomètre pour mesurer la distance parcourue
+  - Chronomètre et mètre pour mesurer la distance parcourue
 
 ---
 
 ### Déroulement de l'activité
 1. **Introduction (15 minutes)**  
    Présentation des concepts d'exploration spatiale et des défis du transport des astronautes vers la Lune.
+   Présentation de différents matériaux utilisés dans l'industrie (aluminium, titane, graphite, acier, teflon, ...), leurs caracteristiques (thermique, dureté, flexibilité, conductivité, magnétique ...) ainsi que leur valeur.
 
-2. **Phase de planification (20 minutes)**  
+3. **Phase de planification (20 minutes)**  
    Les élèves travaillent en petits groupes pour concevoir leur vaisseau spatial en tenant compte de divers facteurs.
 
-3. **Construction du vaisseau (60 minutes)**  
+4. **Construction du vaisseau (60 minutes)**  
    Utilisation de matériaux simples pour construire un modèle réduit du vaisseau spatial.
 
-4. **Test de vol (30 minutes)**  
+5. **Test de vol (30 minutes)**  
    Lancement des modèles dans un espace ouvert pour évaluer leurs performances.
 
-5. **Discussion de conclusion (15 minutes)**  
+6. **Discussion de conclusion (15 minutes)**  
    Présentation des vaisseaux par chaque groupe et réflexion sur les défis rencontrés et les améliorations possibles.
 
 ---
+
+## Introduction
+
+
+
+## Annexe
+
 
 
 
