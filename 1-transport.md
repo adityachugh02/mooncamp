@@ -89,3 +89,9 @@ faire ensuite passer ces matériaux parmi les élèves
 |--------------|
 |text|
 
+---
+
+#### Grille de mesure de performance.
+
+| **Critère** | **Cocher**|
+|--------------|----------|
