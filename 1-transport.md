@@ -78,13 +78,13 @@ faire ensuite passer ces matériaux parmi les élèves
 ## Partie 2
 
 ## Annexes
-### Tableau des caractéristiques et des valeurs des différents matériaux mis à l'échelle d'une mission spatiale.
+#### Tableau des caractéristiques et des valeurs des différents matériaux mis à l'échelle d'une mission spatiale.
 
 | **Matériau** | **Caractéristiques**                                      | **Valeur**  |
 |--------------|---------------------------------------------------------|--------------------------|
 
 ---
-### Fiche de mission à fournir aux élèves dans une enveloppe.
+#### Fiche de mission à fournir aux élèves dans une enveloppe.
 | **Mission** |
 |--------------|
 |text|
