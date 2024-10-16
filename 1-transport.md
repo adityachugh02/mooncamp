@@ -12,16 +12,16 @@
 **Durée :** 2 heures  
 **Niveau :** Primaire  
 **Matières :** Sciences, Technologie, Mathématiques  
-**Thème :** Exploration spatiale  
 
 ## Vue d'ensemble de l'activité
 
 ### Résumé
-L'activité "Transport vers la Lune" plonge les élèves dans le monde de l'exploration spatiale à travers la conception et la construction de modèles de vaisseaux spatiaux. Les élèves travailleront en petits groupes pour planifier, construire et tester un vaisseau spatial capable de transporter des astronautes vers la Lune, en prenant en compte divers facteurs tels que l'aérodynamisme, le choix des matériaux, et le budget de mission.
+L'activité "Transport vers la Lune" plonge les élèves dans le monde de l'exploration spatiale à travers la conception et la construction d'un modèle de vaisseau spatial. Les élèves travailleront en petits groupes pour planifier, construire et tester un vaisseau spatial capable de transporter des astronautes vers la Lune, en prenant en compte divers facteurs tels que le choix des matériaux, l'aérodynamisme et le budget de mission.
 
 ### Objectifs d'apprentissage
 - Comprendre les défis liés au transport spatial et à l'exploration lunaire.
-- Concevoir un vaisseau spatial en tenant compte des principes d'aérodynamisme et des matériaux appropriés.
+- Comprendre les caractéristiques de différents matériaux.
+- Concevoir un vaisseau spatial en tenant compte des matériaux appropriés et des principes d'aérodynamisme.
 - Collaborer en groupe pour respecter un budget et justifier les choix de conception.
 - Tester et évaluer les performances du modèle de vaisseau spatial construit.
 
@@ -29,18 +29,18 @@ L'activité "Transport vers la Lune" plonge les élèves dans le monde de l'expl
 - **Pour l'introduction et la planification :**
   - Fiches d'activités
   - Enveloppes de missions
-  - Matériaux variés pour la construction (carton, paille, scotch, etc.)
   - Échantillons de différents matériaux pour tactile exploration
 
 - **Pour la construction :**
   - Outils de coupe et de collage
   - Règles et équerres pour mesurer
   - Feuilles de papier pour le budget fictif
+  - Matériaux variés pour la construction (carton, paille, scotch, etc.)
 
 - **Pour les tests :**
   - Espace ouvert pour effectuer les « vols » simulés
   - Chronomètre et mètre pour mesurer la distance parcourue
-  - balance
+  - balance 
 
 ---
 
@@ -71,12 +71,21 @@ Apollo 11 transportait trois astronautes : Neil Armstrong, Michael Collins et Ed
 
 Cette mission a non seulement démontré les capacités techniques de l'ingénierie spatiale, mais a également inspiré des générations à explorer l'espace et à envisager l'avenir de l'humanité au-delà de notre planète.
 
-## Activité 1
+## Partie 1
 Expliquer aux élèves 
 faire ensuite passer ces matériaux parmi les élèves 
 
-## Annexe
+## Partie 2
 
+## Annexes
+### Tableau des caractéristiques et des valeurs des différents matériaux mis à l'échelle d'une mission spatiale.
 
+| **Matériau** | **Caractéristiques**                                      | **Valeur**  |
+|--------------|---------------------------------------------------------|--------------------------|
 
+---
+### Fiche de mission à fournir aux élèves dans une enveloppe.
+| **Mission** |
+|--------------|
+|text|
 
