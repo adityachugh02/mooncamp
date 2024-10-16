@@ -72,7 +72,8 @@ Apollo 11 transportait trois astronautes : Neil Armstrong, Michael Collins et Ed
 Cette mission a non seulement démontré les capacités techniques de l'ingénierie spatiale, mais a également inspiré des générations à explorer l'espace et à envisager l'avenir de l'humanité au-delà de notre planète.
 
 ## Partie 1
-Expliquer aux élèves 
+La façon la plus efficace d'apprendre quelque à quelqu'un c'est en les immergeant dans . Vos élèves ne sont donc plus des élèves mais bien des astronautes en herbe! 
+Expliquer aux élèves que
 faire ensuite passer ces matériaux parmi les élèves 
 
 ## Partie 2
