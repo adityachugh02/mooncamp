@@ -69,8 +69,10 @@ L'activité "Transport vers la Lune" plonge les élèves dans le monde de l'expl
 ## Introduction
 
 >La fusée Apollo 11, lancée le 16 juillet 1969, a marqué un tournant historique dans l'exploration spatiale en devenant le premier vaisseau spatial à transporter des astronautes sur la Lune. Conçue par la NASA, cette mission emblématique a utilisé le puissant lanceur Saturn V, qui mesurait plus de 110 mètres de haut et pouvait générer une force de propulsion de 34 millions de newtons (soit une force exercée par une masse de 3.4 millions kilogrammes sur terre, équivalent à environ 3000 voitures!).
-Apollo 11 transportait trois astronautes : Neil Armstrong, Michael Collins et Edwin "Buzz" Aldrin. Le 20 juillet 1969, Armstrong et Aldrin ont effectué un alunissage historique dans le module lunaire, Eagle, tandis que Collins est resté en orbite lunaire à bord du module de commande, Columbia. Armstrong est devenu le premier homme à poser le pied sur la surface lunaire, prononçant la célèbre phrase: « C'est un petit pas pour l'homme, mais un bond de géant pour l'humanité ». 
-Cette mission a non seulement démontré les capacités techniques de l'ingénierie spatiale, mais a également inspiré des générations à explorer l'espace et à envisager l'avenir de l'humanité au-delà de notre planète.
+
+>Apollo 11 transportait trois astronautes : Neil Armstrong, Michael Collins et Edwin "Buzz" Aldrin. Le 20 juillet 1969, Armstrong et Aldrin ont effectué un alunissage historique dans le module lunaire, Eagle, tandis que Collins est resté en orbite lunaire à bord du module de commande, Columbia. Armstrong est devenu le premier homme à poser le pied sur la surface lunaire, prononçant la célèbre phrase: « C'est un petit pas pour l'homme, mais un bond de géant pour l'humanité ». 
+
+>Cette mission a non seulement démontré les capacités techniques de l'ingénierie spatiale, mais a également inspiré des générations à explorer l'espace et à envisager l'avenir de l'humanité au-delà de notre planète.
 
 Commencer par raconter aux élèves des faits historiques sur le transport spatial (cf. ci-dessus) et quelques anecdotes sur projets spatiaux actuels et futurs. Vous pouvez, par exemple, animer les explications à l'aide de clips vidéos.
 
