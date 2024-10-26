@@ -104,10 +104,13 @@ Expliquez finalement les caractéristiques que peuvent avoir différents matéri
 
 ---
 
-### Exercice
+### Activité
 Distribuez les échantillons de différents matériaux parmis les groupes. Lors de cette activité, les élèves devront compléter le tableau des caractéristiques des matériaux sur base de l'aspect et le toucher des échantillons.
 
-## Partie 2
+## Défi 2: Structure
+### Explication
+### Activité
+
 ---
 
 ## Annexes
