@@ -87,18 +87,15 @@ Après la découverte du contenu de l'enveloppe de mission par les élèves, int
 
 ## Défi 1: Matériaux
 ### Explication
-Discutez dans un premier temps avec les élèves pour identifier les exigences 
+Discutez dans un premier temps avec les élèves afin d'identifier les exigences auxquelles devra répondre leur vaisseau spatial en termes de **matériiaux**. Ces exigeances sont: 
 
-Résistance aux températures extrêmes : Les vaisseaux doivent résister à des variations de température très importantes, passant d’une chaleur intense lorsqu’ils sont exposés au Soleil à des températures extrêmement basses dans l’ombre. Les matériaux doivent donc avoir une excellente stabilité thermique, comme des alliages spéciaux (aluminium-lithium, titane) et des matériaux composites (fibres de carbone, matrices polymères).
+- **Résistance aux températures extrêmes** : Les vaisseaux doivent résister à des variations de température très importantes, passant d’une chaleur intense lorsqu’ils sont exposés au Soleil à des températures extrêmement basses dans l’ombre. Les matériaux doivent donc avoir une excellente stabilité thermique, comme des alliages spéciaux (à base d'aluminium ou de titane) et des matériaux composites (fibres de carbone).
 
-Légèreté et résistance mécanique : La réduction de la masse des matériaux est essentielle pour minimiser les coûts de lancement. Les matériaux modernes comme les composites de fibres de carbone et les alliages d’aluminium et de titane offrent un bon compromis entre légèreté et résistance, mais ils posent des défis en termes de coût et de complexité de fabrication.
+- **Légèreté et résistance mécanique** : La réduction de la masse des matériaux est essentielle pour minimiser les coûts de lancement. Les matériaux modernes comme les composites de fibres de carbone et les alliages d’aluminium (ou de titane) offrent un bon compromis entre légèreté et résistance, mais ils posent des défis en termes de **coût** et de complexité de fabrication.
 
-Érosion par microparticules : Dans l’espace, des microparticules et des débris orbitaux voyagent à des vitesses très élevées et peuvent causer des dégâts aux structures des vaisseaux. Il faut donc utiliser des revêtements résistants à l’abrasion ou des systèmes de protection actifs.
-
+- **Érosion par microparticules** : Dans l’espace, des microparticules et des débris orbitaux voyagent à des vitesses très élevées et peuvent causer des dégâts aux structures des vaisseaux. Il faut donc utiliser des revêtements résistants à l’abrasion tels que des céramiques avancées.
 
 Explorez, en discutant avec les élèves, leurs connaissances préalables sur les métaux et les non-métaux et leurs idées préconçues sur les raisons pour lesquelles certains matériaux conviennent à certaines choses et pas à d'autres.
-
-Exemples: pourquoi une voiture est généralement faite en grande partie de métal, alors que certaines pièces sont également en plastique; pourquoi les cuillères peuvent être en plastique et en métal, mais pas en verre.
 
 ---
 
