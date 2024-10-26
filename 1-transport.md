@@ -34,8 +34,9 @@ L'activité "Transport vers la Lune" plonge les élèves dans le monde de l'expl
     - Fer (ex. fil plein)
     - Laiton (ex. tube fin)
     - Plastique
-    - Frigolite
+    - polystyrene (frigolite)
     - Bois (ex. brochette)
+    - Céramique
 
 - **Pour la construction :**
   - Outils de coupe et de collage
@@ -87,20 +88,24 @@ Après la découverte du contenu de l'enveloppe de mission par les élèves, int
 
 ## Défi 1: Matériaux
 ### Explication
-Discutez dans un premier temps avec les élèves afin d'identifier les exigences auxquelles devra répondre leur vaisseau spatial en termes de **matériiaux**. Les exigeances à identifier sont: 
+Discutez dans un premier temps avec les élèves afin d'identifier les exigences auxquelles devra répondre leur vaisseau spatial en termes de **matériaux**. Les exigeances à identifier sont: 
 
-- **Résistance aux températures extrêmes** : Les vaisseaux doivent résister à des variations de température très importantes, passant d’une chaleur intense lorsqu’ils sont exposés au Soleil à des températures extrêmement basses dans l’ombre. Les matériaux doivent donc avoir une excellente stabilité thermique, comme des alliages spéciaux (à base d'aluminium ou de titane) et des matériaux composites (fibres de carbone).
+- **Résistance aux températures extrêmes** : Les vaisseaux doivent résister à des variations de température très importantes, passant d’une chaleur intense lorsqu’ils sont exposés au Soleil à des températures extrêmement basses dans l’ombre. Les matériaux doivent donc avoir une excellente stabilité thermique, comme des **alliages** spéciaux (à base d'aluminium ou de titane) et des matériaux composites (fibres de carbone).
 
-- **Légèreté et résistance mécanique** : La réduction de la masse des matériaux est essentielle pour minimiser les coûts de lancement. Les matériaux modernes comme les composites de fibres de carbone et les alliages d’aluminium (ou de titane) offrent un bon compromis entre légèreté et résistance, mais ils posent des défis en termes de **coût** et de complexité de fabrication.
+- **Légèreté et résistance mécanique** : La réduction de la masse des matériaux est essentielle pour minimiser les coûts de lancement. Les matériaux modernes comme les composites de fibres de carbone et les **alliages** d’aluminium (ou de titane) offrent un bon compromis entre légèreté et résistance, mais ils posent des défis en termes de **coût** et de complexité de fabrication.
 
 - **Érosion par microparticules** : Dans l’espace, des microparticules et des débris orbitaux voyagent à des vitesses très élevées et peuvent causer des dégâts aux structures des vaisseaux. Il faut donc utiliser des revêtements résistants à l’abrasion tels que des céramiques avancées.
 
 Explorez, en discutant avec les élèves, leurs connaissances préalables sur les métaux et les non-métaux et leurs idées préconçues sur les raisons pour lesquelles certains matériaux conviennent à certaines choses et pas à d'autres.
 
+Expliquez finalement les caractéristiques que peuvent avoir différents matériaux: conductivité thermique, masse, maléabilité, dureté, brillance, alliage.
+
+**NB:** Un alliage est un mélange de deux éléments ou plus, dont l'un est un métal. Le laiton est un alliage de cuivre (2/3) et de zinc (1/3).
+
 ---
 
 ### Exercice
-Distribuez les échantillons de différents matériaux parmis les groupes. Lors de cette activité, les élèves devront compléter le tableau des caractéristiques des matériaux sur base
+Distribuez les échantillons de différents matériaux parmis les groupes. Lors de cette activité, les élèves devront compléter le tableau des caractéristiques des matériaux sur base de l'aspect et le toucher.
 
 ## Partie 2
 ---
