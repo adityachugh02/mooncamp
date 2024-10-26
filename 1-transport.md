@@ -87,7 +87,7 @@ Après la découverte du contenu de l'enveloppe de mission par les élèves, int
 
 ## Défi 1: Matériaux
 ### Explication
-Discutez dans un premier temps avec les élèves afin d'identifier les exigences auxquelles devra répondre leur vaisseau spatial en termes de **matériiaux**. Ces exigeances sont: 
+Discutez dans un premier temps avec les élèves afin d'identifier les exigences auxquelles devra répondre leur vaisseau spatial en termes de **matériiaux**. Les exigeances à identifier sont: 
 
 - **Résistance aux températures extrêmes** : Les vaisseaux doivent résister à des variations de température très importantes, passant d’une chaleur intense lorsqu’ils sont exposés au Soleil à des températures extrêmement basses dans l’ombre. Les matériaux doivent donc avoir une excellente stabilité thermique, comme des alliages spéciaux (à base d'aluminium ou de titane) et des matériaux composites (fibres de carbone).
 
