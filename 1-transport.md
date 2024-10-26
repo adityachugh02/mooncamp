@@ -29,10 +29,13 @@ L'activité "Transport vers la Lune" plonge les élèves dans le monde de l'expl
   - Fiches d'activités
   - Enveloppes de missions
   - Échantillons de différents matériaux pour tactile exploration:
-    - Cuivre
-    - Aluminium
+    - Aluminium (ex. feuille ou latte)
+    - Cuivre (ex. fil plein)
+    - Fer (ex. fil plein)
+    - Laiton (ex. tube fin)
     - Plastique
-    - 
+    - Frigolite
+    - Bois (ex. brochette)
 
 - **Pour la construction :**
   - Outils de coupe et de collage
@@ -74,24 +77,43 @@ L'activité "Transport vers la Lune" plonge les élèves dans le monde de l'expl
 
 >Cette mission a non seulement démontré les capacités techniques de l'ingénierie spatiale, mais a également inspiré des générations à explorer l'espace et à envisager l'avenir de l'humanité au-delà de notre planète.
 
-Commencer par raconter aux élèves des faits historiques sur le transport spatial (cf. ci-dessus) et quelques anecdotes sur projets spatiaux actuels et futurs. Vous pouvez, par exemple, animer les explications à l'aide de clips vidéos.
+Commencez par raconter aux élèves des faits historiques sur le transport spatial (cf. ci-dessus) et quelques anecdotes sur des projets spatiaux actuels et futurs tel que le projet [Artemis I](www.esa.int/Our_Activities/Human_Spaceflight/Orion/Exploration_Mission_1) utilisant le vaisseau spatial [Orion](www.esa.int/Our_Activities/Human_Spaceflight/Orion/What_is_Orion). Vous pouvez, par exemple, animer les explications à l'aide de clips vidéos.
 
 Répartissez ensuite les élèves en groupes de 4 à 6 et distribuez leur les fiches d'activité dans des enveloppes de "mission"; essayez d'immerger les élèves le plus possible dans le thème et de les voir non pas comme des élèves mais comme des apprentis astronautes !
-## Partie 1
 
- Ensuite, explorez les connaissances préalables des élèves sur les métaux et les non-métaux et les idées préconçues des élèves sur les raisons pour lesquelles certains matériaux conviennent à certaines choses et pas à d'autres.
+Après la découverte du contenu de l'enveloppe de mission par les élèves, introduisez les défis du transport spatial en termes de **matériaux de construction** et de **formes des vaisseaux**. Ces défis sont considérables, car les vaisseaux doivent répondre à des exigences extrêmes en matière de résistance, légèreté, durabilité et aérodynamisme.
+
+---
+
+## Défi 1: Matériaux
+### Explication
+Discutez dans un premier temps avec les élèves pour identifier les exigences 
+
+Résistance aux températures extrêmes : Les vaisseaux doivent résister à des variations de température très importantes, passant d’une chaleur intense lorsqu’ils sont exposés au Soleil à des températures extrêmement basses dans l’ombre. Les matériaux doivent donc avoir une excellente stabilité thermique, comme des alliages spéciaux (aluminium-lithium, titane) et des matériaux composites (fibres de carbone, matrices polymères).
+
+Légèreté et résistance mécanique : La réduction de la masse des matériaux est essentielle pour minimiser les coûts de lancement. Les matériaux modernes comme les composites de fibres de carbone et les alliages d’aluminium et de titane offrent un bon compromis entre légèreté et résistance, mais ils posent des défis en termes de coût et de complexité de fabrication.
+
+Érosion par microparticules : Dans l’espace, des microparticules et des débris orbitaux voyagent à des vitesses très élevées et peuvent causer des dégâts aux structures des vaisseaux. Il faut donc utiliser des revêtements résistants à l’abrasion ou des systèmes de protection actifs.
+
+
+Explorez, en discutant avec les élèves, leurs connaissances préalables sur les métaux et les non-métaux et leurs idées préconçues sur les raisons pour lesquelles certains matériaux conviennent à certaines choses et pas à d'autres.
 
 Exemples: pourquoi une voiture est généralement faite en grande partie de métal, alors que certaines pièces sont également en plastique; pourquoi les cuillères peuvent être en plastique et en métal, mais pas en verre.
 
+---
 
+### Exercice
+Distribuez les échantillons de différents matériaux parmis les groupes. Lors de cette activité, les élèves devront compléter le tableau des caractéristiques des matériaux sur base
 
 ## Partie 2
+---
 
 ## Annexes
 #### Tableau des caractéristiques et des valeurs des différents matériaux mis à l'échelle d'une mission spatiale.
 
 | **Matériau** | **Caractéristiques**                                      | **Valeur**  |
 |--------------|---------------------------------------------------------|--------------------------|
+
 
 ---
 #### Fiche de mission à fournir aux élèves dans une enveloppe.
@@ -103,5 +125,8 @@ Exemples: pourquoi une voiture est généralement faite en grande partie de mét
 
 #### Grille de mesure de performance.
 
-| **Critère** | **Cocher**|
+| **Critères** | **Cocher**|
 |--------------|----------|
+
+---
+## Liens
