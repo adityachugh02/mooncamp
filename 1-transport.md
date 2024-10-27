@@ -104,12 +104,22 @@ Expliquez finalement les caractéristiques que peuvent avoir différents matéri
 
 ---
 
-### Activité
-Distribuez les échantillons de différents matériaux parmis les groupes. Lors de cette activité, les élèves devront compléter le tableau des caractéristiques des matériaux sur base de l'aspect et le toucher des échantillons.
+### Activité 1
+Distribuez les échantillons de différents matériaux parmis les groupes. Lors de cette activité, les élèves devront compléter le tableau des caractéristiques des matériaux (cf. annexes) sur base de l'aspect et le toucher des échantillons.
+
+Les élèves doivent utiliser un vocabulaire scientifique lorsqu'ils décrivent les matériaux en fonction de leur aspect et de leur toucher (par exemple, lourd/léger; rugueux/lisse; chaud au toucher/froid; brillant/mat).
+
+Demandez aux élèves de suggérer des tests qu'ils pourraient effectuer pour comparer les matériaux. Demandez-leur de quels matériaux et instruments ils auraient besoin pour effectuer ces tests.
+
+Exemples: 
 
 ## Défi 2: Structure
 ### Explication
-### Activité
+### Activité 2
+### Activité 3
+### Conclusion
+
+
 
 ---
 
