@@ -52,20 +52,22 @@ L'activité "Transport vers la Lune" plonge les élèves dans le monde de l'expl
 ---
 
 ### Déroulement de l'activité
-1. **Introduction (20 minutes)**  
+1. **Introduction (10 minutes)**  
    Présentation des concepts d'exploration spatiale et des défis du transport des astronautes vers la Lune.
-   Présentation de différents matériaux utilisés dans l'industrie (aluminium, titane, graphite, acier, teflon, ...), leurs caracteristiques (thermique, dureté, flexibilité, conductivité, magnétique ...) ainsi que leur valeur.
+   
 
-3. **Phase de planification (20 minutes)**  
-   Les élèves travaillent en petits groupes pour concevoir leur vaisseau spatial en tenant compte de divers facteurs.
+3. **Défi 1: Découverte des matériaux (30 minutes)**
+   Présentation et découverte de différents matériaux utilisés dans l'industrie, leurs caractéristiques ainsi que leur valeur.
+   
 
-4. **Construction du vaisseau (60 minutes)**  
-   Utilisation de matériaux simples pour construire un modèle réduit du vaisseau spatial.
+5. **Défi 2: Construction du vaisseau (50 minutes)**
+  Les élèves travaillent en petits groupes pour concevoir leur vaisseau spatial en tenant compte de divers facteurs.
 
-5. **Test de vol (30 minutes)**  
-   Lancement des modèles dans un espace ouvert pour évaluer leurs performances.
 
-6. **Discussion de conclusion (15 minutes)**  
+7. **Tests de lancement (20 minutes)**  
+   Lancement des modèles pour évaluer leurs performances.
+
+8. **Résultats et conclusion (10 minutes)**  
    Présentation des vaisseaux par chaque groupe et réflexion sur les défis rencontrés et les améliorations possibles.
 
 ---
@@ -121,7 +123,7 @@ Une fois que les élèves ont terminé leur tableau, concluez en passant en revu
 
 ---
 
-## Défi 2: Structure
+## Défi 2: Construction du vaisseau
 ### Explication
 Discutez ensuite avec les élèves afin d'identifier les exigences auxquelles devra répondre leur vaisseau spatial en termes de **forme**. Les exigeances à identifier sont: 
 
@@ -131,7 +133,7 @@ Discutez ensuite avec les élèves afin d'identifier les exigences auxquelles de
 
 - **Optimisation pour la propulsion et le carburant** : La forme des réservoirs de carburant et la disposition des moteurs doivent minimiser la masse et maximiser l’efficacité. La forme de certains véhicules, comme les étages de fusées réutilisables, est spécialement conçue pour optimiser la propulsion et l’atterrissage vertical. Cela impose également des contraintes sur la forme et la **distribution de la masse**.
 
-Avant de passer à l'activité suiante, discuter et questionner 
+Avant de passer à l'activité suivante, interrogez les élèves sur leur compréhension des éléments expliqués précédemment.
 
 ---
 
@@ -143,7 +145,7 @@ Avant de passer à l'activité suiante, discuter et questionner
 
 ---
 
-### Conclusion
+### Résultats et conclusion
 
 
 
