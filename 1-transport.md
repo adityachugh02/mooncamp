@@ -2,10 +2,6 @@
 
 ---
 
-## Page de Garde
-
----
-
 ### Activité : Transport vers la Lune
 
 **Public :** Élèves de 8 à 12 ans  
@@ -24,10 +20,32 @@ L'activité "Transport vers la Lune" plonge les élèves dans le monde de l'expl
 - Collaborer en groupe pour respecter un budget et justifier les choix de conception.
 - Tester et évaluer les performances du modèle de vaisseau spatial construit.
 
+---
+
+### Déroulement de l'activité
+1. **Introduction (10 minutes)**  
+Présentation des concepts d'exploration spatiale et des défis du transport des astronautes vers la Lune.
+   
+
+2. **Défi 1: Découverte des matériaux (30 minutes)**
+Présentation et découverte de différents matériaux utilisés dans l'industrie, leurs caractéristiques ainsi que leur valeur.
+   
+
+3. **Défi 2: Construction du vaisseau (50 minutes)**
+Les élèves travaillent en petits groupes pour concevoir leur vaisseau spatial en tenant compte de divers facteurs.
+
+
+4. **Tests de lancement (20 minutes)**
+Lancement des modèles pour évaluer leurs performances.
+
+5. **Résultats et conclusion (10 minutes)**
+Présentation des vaisseaux par chaque groupe et réflexion sur les défis rencontrés et les améliorations possibles.
+
 ### Matériel
-- **Pour l'introduction et la planification :**
-  - Fiches d'activités
+- **Démarrage :**
   - Enveloppes de missions
+    
+- **Défi 1 :**
   - Échantillons de différents matériaux de même volume pour exploration tactile:
     - Aluminium (ex. feuille ou latte)
     - Cuivre (ex. fil plein)
@@ -38,37 +56,20 @@ L'activité "Transport vers la Lune" plonge les élèves dans le monde de l'expl
     - Bois (ex. brochette)
     - Céramique
 
-- **Pour la construction :**
-  - Outils de coupe et de collage
-  - Règles et équerres pour mesurer
-  - Feuilles de papier pour le budget fictif
-  - Matériaux variés pour la construction (carton, paille, scotch, etc.)
-
-- **Pour les tests :**
-  - Espace ouvert pour effectuer les « vols » simulés
-  - Chronomètre et mètre pour mesurer la distance parcourue
-  - balance 
-
----
-
-### Déroulement de l'activité
-1. **Introduction (10 minutes)**  
-   Présentation des concepts d'exploration spatiale et des défis du transport des astronautes vers la Lune.
-   
-
-3. **Défi 1: Découverte des matériaux (30 minutes)**
-   Présentation et découverte de différents matériaux utilisés dans l'industrie, leurs caractéristiques ainsi que leur valeur.
-   
-
-5. **Défi 2: Construction du vaisseau (50 minutes)**
-  Les élèves travaillent en petits groupes pour concevoir leur vaisseau spatial en tenant compte de divers facteurs.
+- **Défi 2 :**
+  - Ciseaux
+  - Colle
+  - marqueurs
+  - ficelle
+  - Papier collant
+  - Tubes de papier essuie-tout
+  - Ballons de baudruche long pour modélisation
+  - Feuilles colorées/imprimées correspondants aux matériaux
 
 
-7. **Tests de lancement (20 minutes)**  
-   Lancement des modèles pour évaluer leurs performances.
-
-8. **Résultats et conclusion (10 minutes)**  
-   Présentation des vaisseaux par chaque groupe et réflexion sur les défis rencontrés et les améliorations possibles.
+- **Tests de lancement:**
+  - Chronomètre
+  - Mètre
 
 ---
 
@@ -138,6 +139,8 @@ Avant de passer à l'activité suivante, interrogez les élèves sur leur compr�
 ---
 
 ### Activité 2: Conception d'un vaisseau spatial
+
+Lors 
 
 ---
 
