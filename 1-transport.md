@@ -28,7 +28,7 @@ L'activité "Transport vers la Lune" plonge les élèves dans le monde de l'expl
 - **Pour l'introduction et la planification :**
   - Fiches d'activités
   - Enveloppes de missions
-  - Échantillons de différents matériaux pour tactile exploration:
+  - Échantillons de différents matériaux de même volume pour exploration tactile:
     - Aluminium (ex. feuille ou latte)
     - Cuivre (ex. fil plein)
     - Fer (ex. fil plein)
@@ -98,7 +98,7 @@ Discutez dans un premier temps avec les élèves afin d'identifier les exigences
 
 Explorez, en discutant avec les élèves, leurs connaissances préalables sur les métaux et les non-métaux et leurs idées préconçues sur les raisons pour lesquelles certains matériaux conviennent à certaines choses et pas à d'autres.
 
-Expliquez finalement les caractéristiques que peuvent avoir différents matériaux: conductivité thermique, masse, maléabilité, dureté, brillance, alliage.
+Expliquez finalement les caractéristiques que peuvent avoir différents matériaux: **conductivité thermique, masse, maléabilité, dureté, brillance, alliage.**
 
 **NB:** Un alliage est un mélange de deux éléments ou plus, dont l'un est un métal. Le laiton est un alliage de cuivre (2/3) et de zinc (1/3).
 
@@ -124,24 +124,39 @@ Exemples:
 ---
 
 ## Annexes
-#### Tableau des caractéristiques et des valeurs des différents matériaux mis à l'échelle d'une mission spatiale.
-
-| **Matériau** | **Caractéristiques**                                      | **Valeur**  |
-|--------------|---------------------------------------------------------|--------------------------|
-
-
----
 #### Fiche de mission à fournir aux élèves dans une enveloppe.
-| **Mission** |
+| Mission |
 |--------------|
 |text|
 
 ---
 
+#### Tableau des caractéristiques et des valeurs des différents matériaux mis à l'échelle d'une mission spatiale.
+
+| Matériau | Conducteur thermique | Isolent thermique | Léger | Lourd | Maléable | Doux | Dur | Brillant | Alliage | Valeur |
+|----------|----------------------|-------------------|-------|-------|----------|------|-----|----------|---------|--------|
+| Aluminium | 
+| Cuivre |
+| Fer |
+| Laiton |
+| Plastique |
+| Polystyrène |
+| Bois |
+| Céramique |
+
+---
+
 #### Grille de mesure de performance.
 
-| **Critères** | **Cocher**|
-|--------------|----------|
+| Critères | Groupe 1 | Groupe 2 | Groupe 3 | Groupe 4 | Groupe 5 | Groupe 6 | Groupe 7 | Groupe 8 |
+|----------|----------|----------|----------|----------|----------|----------|----------|----------|
+| Structure en aluminium |
+| Présence d'un cône de nez |
+| Présence d'ailerons |
+| Présence d'une écoutille |
+| Temps de vol (cocher pour le groupe avec meilleur temps de vol) |
+| Distance (cocher pour le groupe avec meilleur distance) |
+| **TOTAL** |
 
 ---
 ## Liens
