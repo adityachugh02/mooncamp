@@ -112,7 +112,7 @@ Distribuez les échantillons de différents matériaux parmis les groupes. Lors 
 
 Les élèves doivent utiliser un vocabulaire scientifique lorsqu'ils décrivent les matériaux en fonction de leur aspect et de leur toucher (par exemple, lourd/léger; rugueux/lisse; chaud/froid au toucher; brillant/mat).
 
-Demandez aux élèves de suggérer des tests qu'ils pourraient effectuer pour comparer les matériaux. Demandez-leur de quels matériaux et instruments ils auraient besoin pour effectuer ces tests.
+Demandez aux élèves de suggérer des tests qu'ils pourraient effectuer pour comparer les matériaux.
 
 Exemples: 
 - Demandez aux élèves de peser les échantillons dans leurs mains, un par un, et de les classer en fonction de leur poids, du plus léger au plus lourd.
