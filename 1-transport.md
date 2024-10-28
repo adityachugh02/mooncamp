@@ -104,7 +104,7 @@ Expliquez finalement les caractéristiques que peuvent avoir différents matéri
 
 ---
 
-### Activité 1
+### Activité 1: Découverte des matériaux
 Distribuez les échantillons de différents matériaux parmis les groupes. Lors de cette activité, les élèves devront compléter le tableau des caractéristiques des matériaux (cf. annexes) sur base de l'aspect et le toucher des échantillons.
 
 Les élèves doivent utiliser un vocabulaire scientifique lorsqu'ils décrivent les matériaux en fonction de leur aspect et de leur toucher (par exemple, lourd/léger; rugueux/lisse; chaud/froid au toucher; brillant/mat).
@@ -112,17 +112,35 @@ Les élèves doivent utiliser un vocabulaire scientifique lorsqu'ils décrivent 
 Demandez aux élèves de suggérer des tests qu'ils pourraient effectuer pour comparer les matériaux. Demandez-leur de quels matériaux et instruments ils auraient besoin pour effectuer ces tests.
 
 Exemples: 
-- Demandez aux élèves de peser les cubes dans leurs mains, un par un, et de les classer en fonction de leur poids, du plus léger au plus lourd.
+- Demandez aux élèves de peser les échantillons dans leurs mains, un par un, et de les classer en fonction de leur poids, du plus léger au plus lourd.
 - Placez une extrémité dans de l'eau chaude (ou froide) et demandez aux élèves quels matériaux se réchauffent (ou se refroidissent) le plus rapidement à l'extrémité opposée, afin d'identifier les conducteurs thermiques.
-- Demandez aux élèves de tordre les matériaux pour d'identifier les matériaux malléables.
+- Demandez aux élèves de tordre les matériaux pour identifier les matériaux malléables.
 - Demandez aux élèves de gratter un matériau contre un autre pour déterminer lequel s'use le plus rapidement (les plus mous) et lequel est le plus résistant (les plus durs).
 
 Une fois que les élèves ont terminé leurs tableaux, concluez en passant en revue les matériaux et en citant leurs caractéristiques.
 
+---
+
 ## Défi 2: Structure
 ### Explication
-### Activité 2
-### Activité 3
+Discutez ensuite avec les élèves afin d'identifier les exigences auxquelles devra répondre leur vaisseau spatial en termes de **forme**. Les exigeances à identifier sont: 
+
+- **Aérodynamique en atmosphère** : Bien que l’aérodynamique soit essentielle pour le décollage et l’atterrissage sur Terre (ou toute autre planète avec atmosphère), dans l’espace, cette contrainte devient moins importante. Pendant le lancement, le **nez en cône**, souvent pointu ou légèrement arrondi, est crucial pour fendre l'air de manière optimale et réduire la traînée. De même, des **ailerons stabilisateurs** sont ajoutés à la base des fusées pour maintenir la trajectoire stable en minimisant les turbulences.
+
+- **Configuration structurelle dans l’espace** : Dans l'espace, la conception des formes doit surtout prendre en compte l’optimisation de la **résistance structurelle**, la **gestion thermique** et la protection contre les radiations et impacts, où l’aérodynamisme cède la priorité aux matériaux et à la configuration structurelle pour des conditions d’apesanteur et de **vide spatial**.
+
+- **Optimisation pour la propulsion et le carburant** : La forme des réservoirs de carburant et la disposition des moteurs doivent minimiser la masse et maximiser l’efficacité. La forme de certains véhicules, comme les étages de fusées réutilisables, est spécialement conçue pour optimiser la propulsion et l’atterrissage vertical. Cela impose également des contraintes sur la forme et la **distribution de la masse**.
+
+---
+
+### Activité 2: Conception d'un vaisseau spatial
+
+---
+
+### Activité 3: Tests de lancement
+
+---
+
 ### Conclusion
 
 
@@ -160,6 +178,8 @@ Une fois que les élèves ont terminé leurs tableaux, concluez en passant en re
 | Présence d'un cône de nez |
 | Présence d'ailerons |
 | Présence d'une écoutille |
+| Présence de réservoirs et de propulseurs |
+| Distribution de masse cohérente |
 | Coût (cocher pour le groupe avec coût le plus faible) |
 | Temps de vol (cocher pour le groupe avec meilleur temps de vol) |
 | Distance (cocher pour le groupe avec meilleur distance) |
