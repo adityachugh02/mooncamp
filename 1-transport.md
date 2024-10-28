@@ -154,6 +154,7 @@ Exemples:
 | Présence d'un cône de nez |
 | Présence d'ailerons |
 | Présence d'une écoutille |
+| Coût (cocher pour le groupe avec coût le plus faible) |
 | Temps de vol (cocher pour le groupe avec meilleur temps de vol) |
 | Distance (cocher pour le groupe avec meilleur distance) |
 | **TOTAL** |
