@@ -112,6 +112,12 @@ Les élèves doivent utiliser un vocabulaire scientifique lorsqu'ils décrivent 
 Demandez aux élèves de suggérer des tests qu'ils pourraient effectuer pour comparer les matériaux. Demandez-leur de quels matériaux et instruments ils auraient besoin pour effectuer ces tests.
 
 Exemples: 
+- Demandez aux élèves de peser les cubes dans leurs mains, un par un, et de les classer en fonction de leur poids, du plus léger au plus lourd.
+- Poser une extrémité dans de l'eau chaude (ou froide) et demandez aux élèves quels sont les matériaux dont l'extrémité opposée devient chaude (resp. froide) le plus rapidement, afin d'identifier les conducteurs thermiques.
+- Demandez aux élèves de tordre les matériaux afin d'identifier les matériaux maléables.
+- Demandez aux élèves de rayer un matériau contre un autre pour déterminer quels matériaux s'usent les plus vite (les plus doux) par rapport aux matériaux qui résistent le plus (les plus durs).
+
+Concluez, une fois que les élèves ont complété leurs tables, en passant en revue les matériaux en citant leurs caractéristiques.
 
 ## Défi 2: Structure
 ### Explication
