@@ -66,11 +66,6 @@ Présentation des vaisseaux par chaque groupe et réflexion sur les défis renco
   - Ballons de baudruche long pour modélisation
   - Feuilles colorées/imprimées correspondants aux matériaux
 
-
-- **Tests de lancement:**
-  - Chronomètre
-  - Mètre
-
 ---
 
 ## Introduction
@@ -112,13 +107,16 @@ Distribuez les échantillons de différents matériaux parmis les groupes. Lors 
 
 Les élèves doivent utiliser un vocabulaire scientifique lorsqu'ils décrivent les matériaux en fonction de leur aspect et de leur toucher (par exemple, lourd/léger; rugueux/lisse; chaud/froid au toucher; brillant/mat).
 
-Demandez aux élèves de suggérer des tests qu'ils pourraient effectuer pour comparer les matériaux.
+1. Demandez aux élèves de suggérer des tests qu'ils pourraient effectuer pour comparer les matériaux.
 
-Exemples: 
-- Demandez aux élèves de peser les échantillons dans leurs mains, un par un, et de les classer en fonction de leur poids, du plus léger au plus lourd.
-- Placez une extrémité dans de l'eau chaude (ou froide) et demandez aux élèves quels matériaux se réchauffent (ou se refroidissent) le plus rapidement à l'extrémité opposée, afin d'identifier les conducteurs thermiques.
-- Demandez aux élèves de tordre les matériaux pour identifier les matériaux malléables.
-- Demandez aux élèves de gratter un matériau contre un autre pour déterminer lequel s'use le plus rapidement (les plus mous) et lequel est le plus résistant (les plus durs).
+2. Demandez aux élèves de peser les échantillons dans leurs mains, un par un, et de les classer en fonction de leur poids, du plus léger au plus lourd.
+
+3. Placez une extrémité dans de l'eau chaude (ou froide) et demandez aux élèves quels matériaux se réchauffent (ou se refroidissent) le plus rapidement à l'extrémité opposée, afin d'identifier les conducteurs thermiques.
+
+4. Demandez aux élèves de tordre les matériaux pour identifier les matériaux malléables.
+
+5. Demandez aux élèves de gratter un matériau contre un autre pour déterminer lequel s'use le plus rapidement (les plus mous) et lequel est le plus résistant (les plus
+durs).
 
 Une fois que les élèves ont terminé leur tableau, concluez en passant en revue les matériaux et en citant leurs caractéristiques. Ce tableau sera utilisé au cours de l'activité suivante.
 
@@ -139,17 +137,38 @@ Avant de passer à l'activité suivante, interrogez les élèves sur leur compr�
 ---
 
 ### Activité 2: Conception d'un vaisseau spatial
+Au cours de cette activité, les élèves concevront leur vaisseau spatial en tenant compte des différentes contraintes vues précédemment.
 
-Lors 
+
+
+1. Commencez par distribuer des feuilles de matériaux colorées/imprimées. Ces différentes feuilles correspondent aux matériaux se trouvant dans la table de caractéristiques des matériaux. Associez à l'avance quelle couleur de feuille correspond à quel matériau (par exemple: gris pour aluminium, orange pour cuivre, brun pour bois, etc.). Imprimez idéalement des textures sur les feuilles.
+
+2. Laissez du temps aux élèves pour découvrir et planifier un bon choix de forme et de matériaux (sur base de leur tableau complété précédemment) pour leur vaiseau spatial. Ces choix sont critiques car ils interviendront dans la mesure de performance lors des tests de lancement! Fournir des marqueurs et des feuilles de papier brouillon pour leurs esquisses.
+
+3. Fournir les ustensils de découpe et de colle aux groupes pour démarrer la construction.
+ 
+Les élèves peuvent également personaliser leur vaisseau spatial à l'aide de marqueurs.
 
 ---
 
-### Activité 3: Tests de lancement
+### Tests de lancement
+Tendez une ficelle entre un point haut et un point bas du local, à l'oblique (45 degrés ou moins par rapport au sol). Marquez à l'aide un marqueur des points équidistants pour référence.
+
+Fixez un paille à l'aide de papier collant sur le corps de la fusée et faire passer la ficelle à l'intérieur, le but étant de faire coulisser le modèle de vaisseau spatial le long de la ficelle.
+Insérez un ballon de baudruche long (pour modélisation) dans le tube de papier essuie-tout et gonflez ensuite le ballon.
+
+
+
+
 
 ---
 
 ### Résultats et conclusion
+Pour obtenir les résultats de chaque groupe, sommez les croix de chaque colonne.
 
+Présentez les résultats aux groupes et commentez vos observations sur les différents vaisseaux spatiaux construits. Discutez avec les élèves des améliorations possibles.
+
+Pour conclure, passez brièvement en revue les éléments clés (en gras sur la fiche d'explication) vus au cours de cette activité.
 
 
 ---
@@ -177,14 +196,13 @@ Lors
 
 ---
 
-#### Grille de mesure de performance.
+#### Grille de mesure de performance (à cocher).
 
 | Critères | Groupe 1 | Groupe 2 | Groupe 3 | Groupe 4 | Groupe 5 | Groupe 6 | Groupe 7 | Groupe 8 |
 |----------|----------|----------|----------|----------|----------|----------|----------|----------|
 | Structure en aluminium |
 | Présence d'un cône de nez |
 | Présence d'ailerons |
-| Présence d'une écoutille |
 | Présence de réservoirs et de propulseurs |
 | Distribution de masse cohérente |
 | Coût (cocher pour le groupe avec coût le plus faible) |
@@ -192,5 +210,3 @@ Lors
 | Distance (cocher pour le groupe avec meilleur distance) |
 | **TOTAL** |
 
----
-## Liens
