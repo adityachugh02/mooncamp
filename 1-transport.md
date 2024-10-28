@@ -117,7 +117,7 @@ Exemples:
 - Demandez aux élèves de tordre les matériaux pour identifier les matériaux malléables.
 - Demandez aux élèves de gratter un matériau contre un autre pour déterminer lequel s'use le plus rapidement (les plus mous) et lequel est le plus résistant (les plus durs).
 
-Une fois que les élèves ont terminé leurs tableaux, concluez en passant en revue les matériaux et en citant leurs caractéristiques.
+Une fois que les élèves ont terminé leur tableau, concluez en passant en revue les matériaux et en citant leurs caractéristiques. Ce tableau sera utilisé au cours de l'activité suivante.
 
 ---
 
@@ -130,6 +130,8 @@ Discutez ensuite avec les élèves afin d'identifier les exigences auxquelles de
 - **Configuration structurelle dans l’espace** : Dans l'espace, la conception des formes doit surtout prendre en compte l’optimisation de la **résistance structurelle**, la **gestion thermique** et la protection contre les radiations et impacts, où l’aérodynamisme cède la priorité aux matériaux et à la configuration structurelle pour des conditions d’apesanteur et de **vide spatial**.
 
 - **Optimisation pour la propulsion et le carburant** : La forme des réservoirs de carburant et la disposition des moteurs doivent minimiser la masse et maximiser l’efficacité. La forme de certains véhicules, comme les étages de fusées réutilisables, est spécialement conçue pour optimiser la propulsion et l’atterrissage vertical. Cela impose également des contraintes sur la forme et la **distribution de la masse**.
+
+Avant de passer à l'activité suiante, discuter et questionner 
 
 ---
 
