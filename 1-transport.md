@@ -135,14 +135,14 @@ Exemples:
 
 | Matériau | Conducteur thermique | Isolent thermique | Léger | Lourd | Maléable | Doux | Dur | Brillant | Alliage | Valeur |
 |----------|----------------------|-------------------|-------|-------|----------|------|-----|----------|---------|--------|
-| Aluminium | 
-| Cuivre |
-| Fer |
-| Laiton |
-| Plastique |
-| Polystyrène |
-| Bois |
-| Céramique |
+| Aluminium ||||||||||3M $|
+| Cuivre ||||||||||6M $|
+| Fer ||||||||||0.1M$|
+| Laiton ||||||||||8M $|
+| Plastique ||||||||||1M $|
+| Polystyrène ||||||||||2M $|
+| Bois ||||||||||1M $|
+| Céramique ||||||||||2M $|
 
 ---
 
