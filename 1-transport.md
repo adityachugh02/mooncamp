@@ -131,7 +131,7 @@ Discutez ensuite avec les élèves afin d'identifier les exigences auxquelles de
 
 - **Optimisation pour la propulsion et le carburant** : La forme des réservoirs de carburant et la disposition des moteurs doivent minimiser la masse et maximiser l’efficacité. La forme de certains véhicules, comme les étages de fusées réutilisables, est spécialement conçue pour optimiser la propulsion et l’atterrissage vertical. Cela impose également des contraintes sur la forme et la **distribution de la masse**.
 
-Avant de passer à l'activité suivante, interrogez les élèves sur leur compréhension des éléments expliqués précédemment.
+Avant de passer à l'activité, interrogez les élèves sur leur compréhension des éléments expliqués précédemment.
 
 ---
 
