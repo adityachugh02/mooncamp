@@ -183,14 +183,21 @@ Pour conclure, passez brièvement en revue les éléments clés (en gras sur la 
 ---
 
 ## Annexes
-#### Fiche de mission à fournir aux élèves dans une enveloppe.
-| Mission |
-|--------------|
-|text|
+#### Fiche de mission à fournir aux élèves dans l'enveloppe de mission.
+
+*Chers astronautes en herbe,*
+
+*Félicitations ! Vous avez été sélectionnés pour une mission incroyable : vous allez partir pour la Lune ! Mais avant de pouvoir décoller, vous avez une mission tout aussi passionnante ici sur Terre : construire votre propre vaisseau spatial. Pas de panique, on est là pour vous guider pas à pas !*
+
+*D'abord, vous devrez comprendre les matériaux dont vous disposez. Chaque matériau a des forces et des faiblesses : certains sont très légers, parfaits pour voyager loin, tandis que d'autres sont plus solides et résistants, idéaux pour vous protéger durant votre voyage. Vous allez explorer ces matériaux pour choisir ceux qui conviennent le mieux à votre vaisseau.*
+
+*Ensuite, vous allez réfléchir à la forme de votre vaisseau. Est-ce qu'il serait rond, pointu, ou carré ? La forme a son importance : elle aide le vaisseau à se déplacer dans l'espace, à être stable et à résister aux forces puissantes de la Lune.*
+
+*Votre mission commence ici, avec ces choix passionnants qui feront de vous de vrais ingénieurs de l’espace !*
 
 ---
 
-#### Tableau des caractéristiques et des valeurs des différents matériaux mis à l'échelle d'une mission spatiale (à cocher).
+#### Tableau des caractéristiques et des valeurs des différents matériaux mis à l'échelle d'une mission spatiale à fournir aux élèves dans l'enveloppe de mission (à cocher par les élèves).
 
 | Matériau | Conducteur thermique | Isolent thermique | Léger | Lourd | Malléable | Mou | Dur | Brillant | Alliage | Valeur |
 |----------|----------------------|-------------------|-------|-------|----------|------|-----|----------|---------|--------|
@@ -205,7 +212,7 @@ Pour conclure, passez brièvement en revue les éléments clés (en gras sur la 
 
 ---
 
-#### Grille de mesure de performance (à cocher).
+#### Grille de mesure de performance (à cocher par l'animateur).
 
 | Critères | Groupe 1 | Groupe 2 | Groupe 3 | Groupe 4 | Groupe 5 | Groupe 6 | Groupe 7 | Groupe 8 |
 |----------|----------|----------|----------|----------|----------|----------|----------|----------|
