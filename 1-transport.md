@@ -142,7 +142,7 @@ Pour répondre à tous les critères de la grille de mesure de performance (cf. 
 
 Le corps du modèle est composé d'un tube de papier essuie-tout dont une extrémité doit rester ouverte; les élèves disposent de cette information.
 
-Pour répondre à tous les critères, les groupes devront intégrer eux-mêmes les éléments suivants:
+Pour répondre à tous les critères, les groupes devront intégrer eux-mêmes après réflexion les éléments suivants:
 - Structure en aluminium: coller une feuille grise (équivalente à l'aluminium) autour du tube;
 - Cône de nez: formé à partir d'un demi-cercle en papier et collé à l'extrémité supérieure du tube à l'aide de papier collant;
 - 2 ou plusieurs réservoirs et réacteurs: formés à partir de pailles ou de papier enroulé et collés de manière symétrique sur le tube.
