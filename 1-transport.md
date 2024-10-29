@@ -115,10 +115,9 @@ Les élèves doivent utiliser un vocabulaire scientifique lorsqu'ils décrivent 
 
 4. Demandez aux élèves de tordre les matériaux pour identifier les matériaux malléables.
 
-5. Demandez aux élèves de gratter un matériau contre un autre pour déterminer lequel s'use le plus rapidement (les plus mous) et lequel est le plus résistant (les plus
-durs).
+5. Demandez aux élèves de gratter un matériau contre un autre pour déterminer lequel s'use le plus rapidement (les plus mous) et lequel est le plus résistant (les plus durs).
 
-Une fois que les élèves ont terminé leur tableau, concluez en passant en revue les matériaux et en citant leurs caractéristiques. Ce tableau sera utilisé au cours de l'activité suivante.
+Une fois que les élèves ont rempli leur tableau, terminez en passant en revue les matériaux et en citant leurs caractéristiques. Ce tableau sera utilisé dans l'activité suivante.
 
 ---
 
@@ -141,30 +140,31 @@ Au cours de cette activité, les élèves concevront leur vaisseau spatial en te
 
 
 
-1. Commencez par distribuer des feuilles de matériaux colorées/imprimées. Ces différentes feuilles correspondent aux matériaux se trouvant dans la table de caractéristiques des matériaux. Associez à l'avance quelle couleur de feuille correspond à quel matériau (par exemple: gris pour aluminium, orange pour cuivre, brun pour bois, etc.). Imprimez idéalement des textures sur les feuilles.
+1. Commencez par distribuer des feuilles de matériaux colorées/imprimées. Ces différentes feuilles correspondent aux matériaux figurant dans le tableau des caractéristiques des matériaux. Déterminez à l'avance quelle feuille de couleur correspond à quel matériau (par exemple : gris pour l'aluminium, orange pour le cuivre, brun pour le bois, etc.). Imprimez idéalement des textures sur les feuilles.
 
-2. Laissez du temps aux élèves pour découvrir et planifier un bon choix de forme et de matériaux (sur base de leur tableau complété précédemment) pour leur vaiseau spatial. Ces choix sont critiques car ils interviendront dans la mesure de performance lors des tests de lancement! Fournir des marqueurs et des feuilles de papier brouillon pour leurs esquisses.
+2. Laissez aux élèves le temps de découvrir et de planifier un bon choix de forme et de matériaux (sur la base du tableau qu'ils ont rempli précédemment) pour leur engin spatial. Ces choix sont cruciaux car ils joueront un rôle dans la mesure des performances lors des essais de lancement ! Fournissez des marqueurs et des feuilles de papier brouillon pour leurs croquis.
 
-3. Fournir les ustensils de découpe et de colle aux groupes pour démarrer la construction.
+3. Fournissez des outils de coupe et de colle pour que les groupes puissent commencer à construire leur modèle.
  
 Les élèves peuvent également personaliser leur vaisseau spatial à l'aide de marqueurs.
 
 ---
 
 ### Tests de lancement
-Tendez une ficelle entre un point haut et un point bas du local, à l'oblique (45 degrés ou moins par rapport au sol). Marquez à l'aide un marqueur des points équidistants pour référence.
+Tendez une ficelle entre un point haut et un point bas du local, à l'oblique (45 degrés ou moins par rapport au sol). Marquez à l'aide un marqueur des points équidistants pour une référence de distance.
 
-Fixez un paille à l'aide de papier collant sur le corps de la fusée et faire passer la ficelle à l'intérieur, le but étant de faire coulisser le modèle de vaisseau spatial le long de la ficelle.
+Fixez un paille à l'aide de papier collant sur le corps de la fusée et passez la ficelle à travers, le but étant de faire glisser le modèle de vaisseau spatial le long de la ficelle.
+
 Insérez un ballon de baudruche long (pour modélisation) dans le tube de papier essuie-tout et gonflez ensuite le ballon.
 
+Maintenant que tout est prêt pour le décollage, lancez le compte à rebours et relâchez le col du ballon. Veillez à retenir le point le plus loin atteint par le modèle de vaisseau spatial sur la ficelle.
 
-
-
+Pour chaque modèle de vaisseau spatial, complétez la grille de mesure de performance.
 
 ---
 
 ### Résultats et conclusion
-Pour obtenir les résultats de chaque groupe, sommez les croix de chaque colonne.
+Pour obtenir les résultats de chaque groupe, sommez les croix de chaque colonne de la grille de mesure de performance.
 
 Présentez les résultats aux groupes et commentez vos observations sur les différents vaisseaux spatiaux construits. Discutez avec les élèves des améliorations possibles.
 
