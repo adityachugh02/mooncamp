@@ -39,7 +39,7 @@ Les élèves travaillent en petits groupes pour concevoir leur vaisseau spatial 
 Lancement des modèles pour évaluer leurs performances.
 
 5. **Résultats et conclusion (10 minutes)**
-Annonce des résultats, réflexion sur les défis rencontrés et les améliorations possibles.
+Annonce des résultats et réflexion sur les défis rencontrés.
 
 ### Matériel
 - **Démarrage :**
