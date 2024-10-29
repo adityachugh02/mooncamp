@@ -52,7 +52,7 @@ Présentation des vaisseaux par chaque groupe et réflexion sur les défis renco
     - Fer (ex. fil plein)
     - Laiton (ex. tube fin)
     - Plastique
-    - polystyrene (frigolite)
+    - polystyrène (frigolite)
     - Bois (ex. brochette)
     - Céramique
 
