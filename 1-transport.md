@@ -65,6 +65,7 @@ Annonce des résultats et réflexion sur les défis rencontrés.
   - Tubes de papier essuie-tout
   - Ballons de baudruche long pour modélisation
   - Feuilles colorées/imprimées correspondants aux matériaux
+  - Feuilles colorées translucides ou transparentes (ex. papier de cuisson)
 
 ---
 
@@ -138,12 +139,14 @@ Avant de passer à l'activité, interrogez les élèves sur leur compréhension 
 ### Activité 2: Conception d'un vaisseau spatial
 Au cours de cette activité, les élèves concevront leur vaisseau spatial en tenant compte des différentes contraintes vues précédemment.
 
-Pour répondre à tous les critères de la grille de mesure de performance (cf. annexe), le modèle doit comporter certains éléments composés de matériaux spécifiques. Ces matériaux seront représentés par des feuilles de matériaux colorées/imprimées, correspondent aux matériaux figurant dans le tableau des caractéristiques des matériaux. Déterminez à l'avance quelle feuille de couleur correspond à quel matériau (par exemple: gris pour l'aluminium, orange pour le cuivre, brun pour le bois, etc.). Imprimez idéalement des textures sur les feuilles.
+Pour répondre à tous les critères de la grille de mesure de performance (cf. annexe), le modèle doit comporter certains éléments composés de matériaux spécifiques. Ces matériaux seront représentés par des feuilles de matériaux colorées/imprimées, correspondent aux matériaux figurant dans le tableau des caractéristiques des matériaux. Déterminez à l'avance quelle feuille de couleur correspond à quel matériau (par exemple: gris pour l'aluminium, orange pour le cuivre, brun pour le bois,  etc.). Imprimez idéalement des textures sur les feuilles.
 
 Le corps du modèle est composé d'un tube de papier essuie-tout dont une extrémité doit rester ouverte; les élèves disposent de cette information.
 
 Pour répondre à tous les critères, les groupes devront intégrer eux-mêmes après réflexion les éléments suivants:
-- Structure en aluminium: coller une feuille grise (équivalente à l'aluminium) autour du tube;
+- Équipement interne: dessiner un schéma approximatif de l'interieur de la fusée à l'aide d'un marqueur (orange ici, pour représenter les dispositifs électroniques) sur le tube de carton;
+- Structure: coller une feuille de couleur approprié (grise ici, équivalente à l'aluminium) autour du tube;
+- Revêtement: coller une feuille translucide (blanche ici, équivalente à la céramique) autour du tube;
 - Cône de nez: formé à partir d'un demi-cercle en papier et collé à l'extrémité supérieure du tube à l'aide de papier collant;
 - 2 ou plusieurs réservoirs et réacteurs: formés à partir de pailles ou de papier enroulé et collés de manière symétrique sur le tube.
 
@@ -212,7 +215,38 @@ Pour conclure, passez brièvement en revue les éléments clés (en gras sur la 
 
 ---
 
-#### Grille de mesure de performance (à cocher par l'animateur).
+#### Grille de pertinence de matériaux (pour l'animateur).
+
+| Matériau | Structure | Revêtement | Équipement interne |
+|----------|-----------|------------|--------------------|
+| Aluminium |10|5|5|
+| Cuivre |5|5|10|
+| Fer |5|5|5|
+| Laiton |5|5|5|
+| Plastique |0|0|0|
+| Polystyrène |0|0|0|
+| Bois |0|0|0|
+| Céramique |0|10|0|
+
+---
+
+#### Grille de mesure de performance à points (à compléter par l'animateur).
+
+| Critères | Groupe 1 | Groupe 2 | Groupe 3 | Groupe 4 | Groupe 5 | Groupe 6 | Groupe 7 | Groupe 8 |
+|----------|----------|----------|----------|----------|----------|----------|----------|----------|
+| Structure |
+| Revêtement |
+| Équipement interne |
+| Présence d'un cône de nez (10 pts)|
+| Présence de réservoirs et de propulseurs (10 pts)|
+| Ajout d'éléments pertinents (5pts) |
+| Distribution de masse cohérente |
+| Distance (5 pts pour le groupe avec meilleur distance) |
+| **TOTAL** |
+
+---
+
+#### Grille de mesure de performance simplifiée (à cocher par l'animateur).
 
 | Critères | Groupe 1 | Groupe 2 | Groupe 3 | Groupe 4 | Groupe 5 | Groupe 6 | Groupe 7 | Groupe 8 |
 |----------|----------|----------|----------|----------|----------|----------|----------|----------|
@@ -221,7 +255,6 @@ Pour conclure, passez brièvement en revue les éléments clés (en gras sur la 
 | Présence de réservoirs et de propulseurs |
 | Ajout d'éléments pertinents (bonus) |
 | Distribution de masse cohérente |
-| Coût (cocher pour le groupe avec coût le plus faible) |
 | Distance (cocher pour le groupe avec meilleur distance) |
 | **TOTAL** |
 
