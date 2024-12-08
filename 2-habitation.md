@@ -54,16 +54,17 @@ Ainsi, l’utilisation de techniques innovantes comme l’impression 3D, combin�
 
 ---
 
-## Défi : Construction du vaisseau
+## Défi : Découverte
 ### Explication
+### Activité : Découverte
 
 ---
 
 ## Défi : Construction de l'abri lunaire
-### Explication
-### Activité : Construction de l'abri lunaire
 
-#### Étapes de préparation et d'assemblage
+### Explication
+
+### Préparation
 
 1. **Mélanger les matériaux**: Selon le produit utilisé, cette étape peut être réalisée à l'avance si vous pensez manquer de temps lors de l'atelier. Il s'agit simplement d'incorporer du sable au matériau choisi. Un sable fin est préférable, car il se mélange de manière plus homogène. Nous avons opté pour de la cire de bougie (par exemple, des bougies chauffe-plat). Une fois fondue, elle se mélange facilement au sable. De plus, elle fond à une température relativement basse, ce qui facilite sa manipulation en toute sécurité. Faites fondre la cire jusqu'à ce qu'elle devienne liquide, puis incorporez-y le sable progressivement en remuant pour obtenir un mélange uniforme.
 
@@ -73,3 +74,12 @@ Ainsi, l’utilisation de techniques innovantes comme l’impression 3D, combin�
 
 **NB**: N'hésitez pas à effectuer ces étapes en parallèle : par exemple, pendant que les premières briques refroidissent, commencez à préparer le mélange ou à assembler les briques déjà prêtes. Cette organisation vous permettra d'optimiser votre temps et de travailler de manière plus efficace.
 
+### Activité : Construction de l'abri lunaire
+
+---
+
+## Conclusion
+
+---
+
+## Annexes
