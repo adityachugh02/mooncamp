@@ -1,8 +1,8 @@
-# Fiche Pédagogique : Construction d'un abris sur la Lune
+# Fiche Pédagogique : Construction d'un abri sur la Lune
 
 ---
 
-### Activité : Construction d'un abris sur la Lune
+### Activité : Construction d'un abri sur la Lune
 
 **Public:** Élèves de 8 à 12 ans  
 **Durée:** 2 heures  
@@ -20,11 +20,11 @@ En effet, l’une des pistes envisagées est l’impression de structures à bas
 ### Objectifs d'apprentissage
 
 - Reconnaître l'importance des abris pour la protection contre l'environnement.
-- -Faire le lien entre les conditions environnementales et les abris connus.
+- Faire le lien entre les conditions environnementales et les abris connus.
 - Comprendre que l'atmosphère est importante pour la vie sur Terre.
 - Reconnaître que la Terre et la Lune ont des conditions environnementales très différentes.
 - Identifier les caractéristiques nécessaires d'un abri sur la Lune.
-- Améliorer leur capacité à travailler en groupe et leur pensée créative.
+- Concevoir un abri lunaire en collaborant en groupe.
 
 ---
 
@@ -52,17 +52,18 @@ En effet, l’une des pistes envisagées est l’impression de structures à bas
 
 >Ainsi, l’utilisation de techniques innovantes comme l’impression 3D, combinée à l’exploitation des ressources locales, pourrait transformer ces défis en opportunités, ouvrant la voie à une présence humaine durable sur la Lune.
 
-Commencez par raconter aux élèves des faits historiques sur le transport spatial (cf. ci-dessus) et quelques anecdotes sur des projets spatiaux actuels et futurs tel que le projet [Artemis I](www.esa.int/Our_Activities/Human_Spaceflight/Orion/Exploration_Mission_1) utilisant le vaisseau spatial [Orion](www.esa.int/Our_Activities/Human_Spaceflight/Orion/What_is_Orion). Vous pouvez, par exemple, animer les explications à l'aide de clips vidéos.
+Commencez par raconter aux élèves des faits historiques sur le transport spatial (cf. ci-dessus) et quelques anecdotes sur des projets spatiaux actuels et futurs tel que le projet [Artemis I](www.esa.int/Our_Activities/Human_Spaceflight/Orion/Exploration_Mission_1). Vous pouvez, par exemple, animer les explications à l'aide de clips vidéos.
 
 Répartissez ensuite les élèves en groupes de 4 à 6 et distribuez leur les fiches d'activité dans des enveloppes de "mission"; essayez d'immerger les élèves le plus possible dans le thème et de les voir non pas comme des élèves mais comme des apprentis astronautes!
 
-Après la découverte du contenu de l'enveloppe de mission par les élèves, introduisez les défis du transport spatial en termes de **matériaux de construction** et de **formes des vaisseaux**. Ces défis sont considérables, car les vaisseaux doivent répondre à des exigences extrêmes en matière de résistance, légèreté, durabilité et aérodynamisme.
+Après la découverte du contenu de l'enveloppe de mission par les élèves, introduisez les défis de l’habitation sur la Lune en termes de **construction d'infrastructures** et de **protection contre l’environnement lunaire**. Ces défis sont cruciaux, car les habitats doivent être capables de résister aux radiations solaires, aux impacts de micrométéorites, et aux températures extrêmes, tout en étant construits avec des matériaux légers et transportables ou disponibles sur place.
 
 
 ---
 
 ## Défi : Découverte
 ### Explication
+
 ### Activité : Découverte
 
 ---
@@ -71,17 +72,16 @@ Après la découverte du contenu de l'enveloppe de mission par les élèves, int
 
 ### Explication
 
-### Préparation
+
+### Activité 2: Construction de l'abri lunaire
 
 1. **Mélanger les matériaux**: Selon le produit utilisé, cette étape peut être réalisée à l'avance si vous pensez manquer de temps lors de l'atelier. Il s'agit simplement d'incorporer du sable au matériau choisi. Un sable fin est préférable, car il se mélange de manière plus homogène. Nous avons opté pour de la cire de bougie (par exemple, des bougies chauffe-plat). Une fois fondue, elle se mélange facilement au sable. De plus, elle fond à une température relativement basse, ce qui facilite sa manipulation en toute sécurité. Faites fondre la cire jusqu'à ce qu'elle devienne liquide, puis incorporez-y le sable progressivement en remuant pour obtenir un mélange uniforme.
 
-2. **Préparer les « briques »**: Des moules sans fond sont idéaux pour cette étape. Placez-les sur une surface en matériau conducteur, comme une plaque ou un plateau en aluminium recouvert d’un film plastique, ce qui accélérera le refroidissement et le durcissement des briques. Remplissez les moules petit à petit. En procédant avec plusieurs moules en parallèle, le mélange versé dans les premiers moules aura déjà commencé à refroidir pendant que vous remplissez les suivants. Une fois les moules remplis, laissez-les durcir, puis décollez les briques en vous aidant du film plastique, ce qui devrait faciliter cette opération.
+2. **Préparer les « briques »**: Des moules hexagonaux sans fond sont idéaux pour cette étape. Placez-les sur une surface en matériau conducteur, comme une plaque ou un plateau en aluminium recouvert d’un film plastique, ce qui accélérera le refroidissement et le durcissement des briques. Remplissez les moules petit à petit. En procédant avec plusieurs moules en parallèle, le mélange versé dans les premiers moules aura déjà commencé à refroidir pendant que vous remplissez les suivants. Une fois les moules remplis, laissez-les durcir, puis décollez les briques en vous aidant du film plastique, ce qui devrait faciliter cette opération.
 
 3. **Assembler la structure**: Une fois les briques ou tuiles réalisées, passez à l’assemblage. Leur format hexagonal offre une bonne flexibilité pour les emboîter. Pour coller les pièces, faites fondre légèrement les bords des deux éléments à attacher ou appliquez une fine couche de cire fondue sur ces bords. Maintenez les deux pièces en place jusqu'à ce que la cire durcisse complètement, ce qui garantira une bonne adhésion.
 
 **NB**: N'hésitez pas à effectuer ces étapes en parallèle : par exemple, pendant que les premières briques refroidissent, commencez à préparer le mélange ou à assembler les briques déjà prêtes. Cette organisation vous permettra d'optimiser votre temps et de travailler de manière plus efficace.
-
-### Activité : Construction de l'abri lunaire
 
 ---
 
