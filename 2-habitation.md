@@ -42,15 +42,22 @@ En effet, l’une des pistes envisagées est l’impression de structures à bas
 
 ## Introduction
 
-L’industrie spatiale travaille activement sur de nouvelles missions vers la Lune afin d’étudier son environnement et de développer des technologies qui pourraient, à terme, permettre l’établissement d’une base lunaire. D’ici les deux prochaines décennies, il est envisageable que des astronautes puissent vivre sur la Lune.
+>L’industrie spatiale travaille activement sur de nouvelles missions vers la Lune afin d’étudier son environnement et de développer des technologies qui pourraient, à terme, permettre l’établissement d’une base lunaire. D’ici les deux prochaines décennies, il est envisageable que des astronautes puissent vivre sur la Lune.
 
-Cependant, l’espace, en dehors de notre planète, est un environnement extrêmement hostile pour les humains. Contrairement à la Terre, la Lune ne possède pas d’atmosphère : elle est plongée dans le vide, sans air respirable. Cette absence d’atmosphère expose également la surface lunaire aux collisions avec des micrométéorites (des débris de roche et de poussière présents dans le Système solaire) ainsi qu’aux radiations nocives du Soleil. De plus, une journée lunaire dure 27,3 jours terrestres, divisée en 14 jours de lumière suivis de 14 jours de nuit. Les variations de température y sont extrêmes, atteignant jusqu’à +123 °C durant le jour et descendant jusqu’à -233 °C durant la nuit, selon l’emplacement.
+>Cependant, l’espace, en dehors de notre planète, est un environnement extrêmement hostile pour les humains. Contrairement à la Terre, la Lune ne possède pas d’atmosphère : elle est plongée dans le vide, sans air respirable. Cette absence d’atmosphère expose également la surface lunaire aux collisions avec des micrométéorites (des débris de roche et de poussière présents dans le Système solaire) ainsi qu’aux radiations nocives du Soleil. De plus, une journée lunaire dure 27,3 jours terrestres, divisée en 14 jours de lumière suivis de 14 jours de nuit. Les variations de température y sont extrêmes, atteignant jusqu’à +123 °C durant le jour et descendant jusqu’à -233 °C durant la nuit, selon l’emplacement.
 
-La construction d’infrastructures sur la Lune pose de nombreux défis, notamment en termes de logistique et de coût. Transporter des matériaux depuis la Terre est une opération extrêmement coûteuse. Par exemple, la Falcon Heavy, avec une masse totale de 1 421 tonnes au décollage, peut transporter jusqu’à 63,8 tonnes de charge utile pour un coût de 90 millions de dollars. Afin de réduire ces coûts, les ingénieurs envisagent d’utiliser des ressources disponibles sur place, comme le régolithe, un matériau présent en abondance à la surface lunaire. Ce dernier résulte de l’impact de météorites et se présente sous forme de poussière.
+>La construction d’infrastructures sur la Lune pose de nombreux défis, notamment en termes de logistique et de coût. Transporter des matériaux depuis la Terre est une opération extrêmement coûteuse. Par exemple, la Falcon Heavy, avec une masse totale de 1 421 tonnes au décollage, peut transporter jusqu’à 63,8 tonnes de charge utile pour un coût de 90 millions de dollars. Afin de réduire ces coûts, les ingénieurs envisagent d’utiliser des ressources disponibles sur place, comme le régolithe, un matériau présent en abondance à la surface lunaire. Ce dernier résulte de l’impact de météorites et se présente sous forme de poussière.
 
-Une des approches envisagées pour la construction sur la Lune repose sur l’impression 3D. Des machines pourraient être envoyées en amont pour mélanger le régolithe avec des matériaux importés depuis la Terre, puis imprimer des structures protectrices autour des modules d’habitation. Ces parois seraient indispensables pour protéger les infrastructures lunaires des dangers de l’environnement : l’absence d’atmosphère expose les installations aux radiations solaires intenses et aux impacts réguliers de météorites.
+>Une des approches envisagées pour la construction sur la Lune repose sur l’impression 3D. Des machines pourraient être envoyées en amont pour mélanger le régolithe avec des matériaux importés depuis la Terre, puis imprimer des structures protectrices autour des modules d’habitation. Ces parois seraient indispensables pour protéger les infrastructures lunaires des dangers de l’environnement : l’absence d’atmosphère expose les installations aux radiations solaires intenses et aux impacts réguliers de météorites.
 
-Ainsi, l’utilisation de techniques innovantes comme l’impression 3D, combinée à l’exploitation des ressources locales, pourrait transformer ces défis en opportunités, ouvrant la voie à une présence humaine durable sur la Lune.
+>Ainsi, l’utilisation de techniques innovantes comme l’impression 3D, combinée à l’exploitation des ressources locales, pourrait transformer ces défis en opportunités, ouvrant la voie à une présence humaine durable sur la Lune.
+
+Commencez par raconter aux élèves des faits historiques sur le transport spatial (cf. ci-dessus) et quelques anecdotes sur des projets spatiaux actuels et futurs tel que le projet [Artemis I](www.esa.int/Our_Activities/Human_Spaceflight/Orion/Exploration_Mission_1) utilisant le vaisseau spatial [Orion](www.esa.int/Our_Activities/Human_Spaceflight/Orion/What_is_Orion). Vous pouvez, par exemple, animer les explications à l'aide de clips vidéos.
+
+Répartissez ensuite les élèves en groupes de 4 à 6 et distribuez leur les fiches d'activité dans des enveloppes de "mission"; essayez d'immerger les élèves le plus possible dans le thème et de les voir non pas comme des élèves mais comme des apprentis astronautes!
+
+Après la découverte du contenu de l'enveloppe de mission par les élèves, introduisez les défis du transport spatial en termes de **matériaux de construction** et de **formes des vaisseaux**. Ces défis sont considérables, car les vaisseaux doivent répondre à des exigences extrêmes en matière de résistance, légèreté, durabilité et aérodynamisme.
+
 
 ---
 
@@ -83,3 +90,4 @@ Ainsi, l’utilisation de techniques innovantes comme l’impression 3D, combin�
 ---
 
 ## Annexes
+#### Fiche de mission à fournir aux élèves dans l'enveloppe de mission.
