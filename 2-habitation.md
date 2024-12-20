@@ -65,12 +65,28 @@ Après la découverte du contenu de l'enveloppe de mission par les élèves, int
 ## Défi 1: Découverte des différents environnements climatiques
 ### Explication
 
-Dans cette activité, les élèves étudient les différents environnements qui existent sur Terre. Ils exploreront ensuite les types d'abris utilisés dans ces endroits.
+Dans cette activité, les élèves étudient les différents environnements qui existent sur Terre. Ils exploreront ensuite les types d'abris utilisés dans ces endroits. Ils identifient finalement les différences entre les caractéristiques lunaires et terrestres.
 
+Every day we are exposed to different weather conditions, such as wind, rain, snow, radiation from
+the Sun, cold and hot temperatures, storms, thunderstorms, tornadoes, etc. We can protect ourselves
+from their negative effects by taking shelter inside a building or another structure (for example
+under a tree or a bus stop, inside a tent or a car). We also take shelter from other dangers like wild
+animals, crowds, loud noises, etc.
+
+
+- quels sont les climats?
+- quels sont les abris?
+- quels sont les caractéristiques lunaires?
 
 ### Activité 1: Découverte des différents environnements climatiques
 
 
+
+Distribute the student worksheets. Ask pupils to describe some of the Moon’s characteristics that
+they can observe in the images.
+Ask them to identify differences between the Earth and the Moon pictures.
+Ask pupils if they think it would be easy for Humans to live on the Moon. What dangers do they
+think astronauts would face on the Moon?
 
 
 ---
