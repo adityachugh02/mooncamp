@@ -61,10 +61,16 @@ Après la découverte du contenu de l'enveloppe de mission par les élèves, int
 
 ---
 
-## Défi : Découverte
+## Défi 1: Découverte
 ### Explication
 
-### Activité : Découverte
+Dans cette activité, les élèves étudient les différents environnements qui existent sur Terre. Ils exploreront ensuite les types d'abris utilisés dans ces endroits.
+
+
+### Activité 1: Découverte
+
+
+
 
 ---
 
