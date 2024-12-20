@@ -31,7 +31,8 @@ En effet, l’une des pistes envisagées est l’impression de structures à bas
 ### Déroulement de l'activité
 
 1. **Introduction (10 minutes)**
-2. **Défi 2: Construction de l'abri lunaire (50 minutes)**
+2. **Défi 1: Découverte des différents environnements climatiques ( minutes)**
+3. **Défi 2: Construction de l'abri lunaire (50 minutes)**
 
 ### Matériel
 
@@ -61,13 +62,13 @@ Après la découverte du contenu de l'enveloppe de mission par les élèves, int
 
 ---
 
-## Défi 1: Découverte
+## Défi 1: Découverte des différents environnements climatiques
 ### Explication
 
 Dans cette activité, les élèves étudient les différents environnements qui existent sur Terre. Ils exploreront ensuite les types d'abris utilisés dans ces endroits.
 
 
-### Activité 1: Découverte
+### Activité 1: Découverte des différents environnements climatiques
 
 
 
@@ -97,3 +98,5 @@ Dans cette activité, les élèves étudient les différents environnements qui 
 
 ## Annexes
 #### Fiche de mission à fournir aux élèves dans l'enveloppe de mission.
+#### Images
+
