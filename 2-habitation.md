@@ -67,31 +67,25 @@ Après la découverte du contenu de l'enveloppe de mission par les élèves, int
 
 Dans cette activité, les élèves étudient les différents environnements qui existent sur Terre. Ils exploreront ensuite les types d'abris utilisés dans ces endroits. Ils identifient finalement les différences entre les caractéristiques lunaires et terrestres.
 
-Every day we are exposed to different weather conditions, such as wind, rain, snow, radiation from
-the Sun, cold and hot temperatures, storms, thunderstorms, tornadoes, etc. We can protect ourselves
-from their negative effects by taking shelter inside a building or another structure (for example
-under a tree or a bus stop, inside a tent or a car). We also take shelter from other dangers like wild
-animals, crowds, loud noises, etc.
+La Lune est un environnement très **hostile** et dangereux pour l'homme. Le paysage est complètement stérile et recouvert d'une poussière très fine. Contrairement à la Terre, la Lune n'a **pas d'atmosphère** pour se protéger des **météorites** et des **radiations**. Il n'y a pas non plus d'**air** à respirer pour les astronautes, qui seraient exposés au vide de l'espace. Le concept habituel de météo ne s'applique pas à la Lune, car il n'y a pas d'atmosphère. Néanmoins, les conditions environnementales peuvent changer en raison de l'interaction avec le Soleil - c'est ce qu'on appelle la météo spatiale.
+Sur la Lune, une nuit dure 14 jours terrestres. Lorsqu'ils se trouvent à l'extérieur du véhicule lunaire ou du vaisseau spatial, les astronautes doivent utiliser des combinaisons de protection spéciales pour se protéger des radiations, des **températures** élevées et basses et du **vide**.
 
+Chaque jour sur Terre, nous sommes exposés à différentes conditions météorologiques, telles que le vent, la pluie, la neige, le rayonnement solaire, les températures froides et chaudes, les tempêtes, les orages, les tornades, etc. Nous pouvons nous protéger de leurs effets négatifs en nous abritant à l'intérieur d'un bâtiment ou d'une autre structure (par exemple sous un arbre ou un arrêt de bus, à l'intérieur d'une tente ou d'une voiture). Nous nous abritons également d'autres dangers tels que les animaux sauvages, les foules, les bruits forts, etc.
 
-- quels sont les climats?
-- quels sont les abris?
-- quels sont les caractéristiques lunaires?
+Explorez, en discutant avec les élèves, leurs connaissances préalables sur les différents phénomènes **météorologiques** (courte durée: pluie, orage, vent, etc.) et **climatique** (longue durée: réchauffement climatique, périodes glacières, sécheresses longues, etc.) sur Terre. Lesquels se rapprochent le plus à ceux sur la Lune?
+
+Discutez ensuite des différents abris possibles associés aux différents phénomènes météorologiques et climatiques.
 
 ### Activité 1: Découverte des différents environnements climatiques
 
-
-
-Distribute the student worksheets. Ask pupils to describe some of the Moon’s characteristics that
-they can observe in the images.
+Distribute the student worksheets. Ask pupils to describe some of the Moon’s characteristics that they can observe in the images.
 Ask them to identify differences between the Earth and the Moon pictures.
 Ask pupils if they think it would be easy for Humans to live on the Moon. What dangers do they
 think astronauts would face on the Moon?
 
-
 ---
 
-## Défi : Construction de l'abri lunaire
+## Défi 2: Construction de l'abri lunaire
 
 ### Explication
 
