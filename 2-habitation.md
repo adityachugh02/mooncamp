@@ -78,10 +78,14 @@ Discutez ensuite des différents abris possibles associés aux différents phén
 
 ### Activité 1: Découverte des différents environnements climatiques
 
-Distribute the student worksheets. Ask pupils to describe some of the Moon’s characteristics that they can observe in the images.
-Ask them to identify differences between the Earth and the Moon pictures.
-Ask pupils if they think it would be easy for Humans to live on the Moon. What dangers do they
-think astronauts would face on the Moon?
+
+Distribuez la fiche d'activité (cf. annexe) aux élèves. Demandez aux élèves de décrire certaines caractéristiques de la Lune qu'ils peuvent observer sur les images.
+Les éléments à identifier sont:
+
+
+Demandez-leur d'identifier les différences entre les images de la Terre et de la Lune.
+Demandez aux élèves s'ils pensent qu'il serait facile pour les humains de vivre sur la Lune. Quels sont les dangers auxquels les astronautes devraient faire face sur la Lune ?
+
 
 ---
 
