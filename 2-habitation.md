@@ -114,5 +114,19 @@ think astronauts would face on the Moon?
 
 ## Annexes
 #### Fiche de mission à fournir aux élèves dans l'enveloppe de mission.
+*Chers astronautes en herbe,*
+
+*Félicitations! Vous avez réussi à atterrir sur la Lune! Mais votre mission ne s’arrête pas là… Pour pouvoir vivre et travailler en toute sécurité, vous allez devoir construire votre propre abri lunaire.*
+
+*D’abord, vous devrez comprendre pourquoi un abri est indispensable. Sur la Lune, il n’y a pas d’air à respirer, il fait très chaud le jour et très froid la nuit, et des météorites peuvent tomber à tout moment. Un bon abri devra vous protéger de tous ces dangers.*
+
+*Ensuite, vous allez choisir les bons matériaux. Certains sont très légers, d’autres sont super résistants, et il faudra trouver le bon équilibre pour construire une base solide, sûre et confortable.*
+
+*Enfin, vous réfléchirez à la forme et à la structure de votre abri. Faut-il un dôme, un tunnel, ou même un abri sous la surface ? Chaque forme a ses avantages, et il faudra bien réfléchir pour que votre base résiste aux conditions lunaires extrêmes.*
+
+*Votre mission commence ici: avec votre ingéniosité et votre esprit d’équipe, vous allez imaginer l’abri parfait pour les futurs astronautes!*
+
+*Fin de transmission.*
+
 #### Images
 
