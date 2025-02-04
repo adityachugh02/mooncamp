@@ -79,20 +79,18 @@ Sur la Lune, une nuit dure 14 jours terrestres. Lorsqu'ils se trouvent à l'ext�
 
 Chaque jour sur Terre, nous sommes exposés à différentes conditions météorologiques, telles que le vent, la pluie, la neige, le rayonnement solaire, les températures froides et chaudes, les tempêtes, les orages, les tornades, etc. Nous pouvons nous protéger de leurs effets négatifs en nous abritant à l'intérieur d'un bâtiment ou d'une autre structure (par exemple sous un arbre ou un arrêt de bus, à l'intérieur d'une tente ou d'une voiture). Nous nous abritons également d'autres dangers tels que les animaux sauvages, les foules, les bruits forts, etc.
 
-Explorez, en discutant avec les élèves, leurs connaissances préalables sur les différents phénomènes **météorologiques** (courte durée: pluie, orage, vent, etc.) et **climatique** (longue durée: réchauffement climatique, périodes glacières, sécheresses longues, etc.) sur Terre. Lesquels se rapprochent le plus à ceux sur la Lune?
-
-Discutez ensuite des différents abris possibles associés aux différents phénomènes météorologiques et climatiques.
-
 ---
 
 ### Activité 1: Découverte des différents environnements climatiques
 
+Explorez, en discutant avec les élèves, leurs connaissances préalables sur les différents phénomènes **météorologiques** (courte durée: pluie, orage, vent, etc.) et **climatique** (longue durée: réchauffement climatique, périodes glacières, sécheresses longues, etc.) sur Terre. Lesquels se rapprochent le plus à ceux sur la Lune?
 
-Distribuez la fiche d'activité (cf. annexe) aux élèves. Demandez aux élèves de décrire certaines caractéristiques de la Lune qu'ils peuvent observer sur les images.
-Les éléments à identifier sont:
+Discutez ensuite des différents abris possibles associés aux différents phénomènes météorologiques et climatiques.
 
+Distribuez la fiche d'illustrations (cf. annexe) aux élèves. Demandez aux élèves de décrire certaines caractéristiques de la Lune qu'ils peuvent observer sur les images.
 
 Demandez-leur d'identifier les différences entre les images de la Terre et de la Lune.
+
 Demandez aux élèves s'ils pensent qu'il serait facile pour les humains de vivre sur la Lune. Quels sont les dangers auxquels les astronautes devraient faire face sur la Lune ?
 
 
@@ -102,9 +100,20 @@ Demandez aux élèves s'ils pensent qu'il serait facile pour les humains de vivr
 
 ### Explication
 
+Lors de la conception de leur abri lunaire, les élèves doivent tenir compte du fait que, sur la Lune, cet avant-poste pourrait être la seule structure existante pour les astronautes et qu'il doit donc être autosuffisant.
+
+L'abri doit protéger les astronautes et les équipements (par exemple les ordinateurs) des météorites et des radiations. Il devrait offrir un environnement à température régulée et une atmosphère simulée où les astronautes peuvent respirer sans bouteille d'oxygène. Il devrait également contenir une zone où l'on peut cultiver des aliments et un système de recyclage de l'eau. Il devrait offrir un espace de travail et de vie aux astronautes. 
+
+De nouvelles technologies sont en cours de développement pour soutenir l'exploration future de la Lune. Elles comprennent l'impression 3D à partir d'analogues du sol lunaire, des structures gonflables, des matériaux régulateurs de température, la recherche sur les plantes, des robots télécommandés, des technologies d'atténuation des poussières, de nouvelles technologies de propulsion, l'exploration de la glace découverte aux pôles lunaires, des dispositifs de purification de l'eau, l'extraction d'eau et de métaux du régolithe et bien d'autres choses encore....
+
 ---
 
 ### Activité 2: Construction de l'abri lunaire
+
+Demandez aux élèves de réfléchir à leur abri lunaire idéal. Ils doivent dessiner un croquis (ou écrire un court texte) pour décrire l'abri sur leur feuille de travail. Leur description doit inclure les différents facteurs contre lesquels l'abri offre une protection et identifier les principaux matériaux nécessaires à la construction de l'abri.
+Ensuite, discutez avec les élèves de certaines des contraintes auxquelles les agences spatiales sont confrontées lorsqu'elles planifient leurs missions. 
+
+Demandez-leur d'adapter leur projet, dans la mesure du possible, pour utiliser les ressources locales (Lune) et des matériaux légers et/ou gonflables. Distribuez aux élèves des matériaux similaires à ceux dont disposeront les futurs astronautes de la Lune (« sol lunaire » - argile, plastique, polystyrène, ballons) et demandez-leur de construire leur propre abri lunaire.
 
 1. **Mélanger les matériaux**: Selon le produit utilisé, cette étape peut être réalisée à l'avance si vous pensez manquer de temps lors de l'atelier. Il s'agit simplement d'incorporer du sable au matériau choisi. Un sable fin est préférable, car il se mélange de manière plus homogène. Nous avons opté pour de la cire de bougie (par exemple, des bougies chauffe-plat). Une fois fondue, elle se mélange facilement au sable. De plus, elle fond à une température relativement basse, ce qui facilite sa manipulation en toute sécurité. Faites fondre la cire jusqu'à ce qu'elle devienne liquide, puis incorporez-y le sable progressivement en remuant pour obtenir un mélange uniforme.
 
