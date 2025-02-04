@@ -198,6 +198,8 @@ Pour conclure, passez brièvement en revue les éléments clés (en gras sur la 
 
 *Votre mission commence ici, avec ces choix passionnants qui feront de vous de vrais ingénieurs de l’espace !*
 
+*Fin de transmission.*
+
 ---
 
 #### Tableau des caractéristiques et des valeurs des différents matériaux mis à l'échelle d'une mission spatiale à fournir aux élèves dans l'enveloppe de mission (à cocher par les élèves).
