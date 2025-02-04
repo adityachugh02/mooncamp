@@ -30,13 +30,13 @@ En effet, l’une des pistes envisagées est l’impression de structures à bas
 
 ### Déroulement de l'activité
 
-1. **Introduction (10 minutes)**
+1. **Introduction (10 minutes)**  
 Présentation des conditions extrêmes sur la Lune et des raisons pour lesquelles un abri est essentiel à la survie des astronautes.
   
-2. **Défi 1: Découverte des différents environnements climatiques (30 minutes)**
+2. **Défi 1: Découverte des différents environnements climatiques (30 minutes)**  
 Exploration des conditions climatiques sur Terre et sur la Lune, comparaison des besoins en abris dans ces milieux hostiles.
   
-3. **Défi 2: Construction de l'abri lunaire (70 minutes)**
+3. **Défi 2: Construction de l'abri lunaire (70 minutes)**  
 Conception et fabrication d’un abri en utilisant des matériaux représentatifs du sol lunaire, en tenant compte des contraintes environnementales.
    
 4. **Conclusion (10 minutes)**
