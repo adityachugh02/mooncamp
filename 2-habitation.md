@@ -43,9 +43,16 @@ Conception et fabrication d’un abri en utilisant des matériaux représentatif
 
 ### Matériel
 
-- Sable fin
-- Cire de bougie (ex. bougie chauffe-plat)
-- Moule hexagonal
+- **Démarrage :**
+  - Enveloppes de missions
+
+- **Défi 1 :**
+  - Fiches d'illustrations (annexes)
+ 
+- **Défi 2 :**
+  - Sable fin
+  - Cire de bougie (ex. bougie chauffe-plat)
+  - Moule hexagonal
 ---
 
 ## Introduction
