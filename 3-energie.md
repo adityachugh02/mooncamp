@@ -25,13 +25,29 @@ Investigating solar power requirements on space missions.
 
 ### Déroulement de l'activité
 
+1. **Introduction (10 minutes)**  
+
+   
+
+2. **Défi 1: Production d'électricité à partir d'un panneau photovoltaïque (40 minutes)**
+
+   
+
+3. **Défi 2: Construction d'une pile voltaïque (60 minutes)**
+
+
+4. **Conclusion (10 minutes)**
+
+
 ### Matériel
 
 - **Démarrage :**
   - Enveloppes de missions
     
 - **Défi 1 :**
-  - Petits panneaux solaires (>1.8V)
+  - Source de lumière puissante
+  - Petits panneaux photovoltaïques (>1.8V)
+  - Fils électriques
   - LEDs rouges
   - Voltmètre (optionnel)
 
@@ -60,10 +76,10 @@ Après la découverte du contenu de l'enveloppe de mission par les élèves, int
 
 ---
 
-## Défi 1: Panneau solaire
+## Défi 1: Panneau photovoltaïque
 ### Explication
 
-**Un panneau solaire** transforme la lumière du Soleil en électricité. Il est composé de petites **cellules** solaires faites d’un matériau spécial appelé **silicium**, qui capte l’énergie du Soleil.
+**Un panneau photovoltaïque** transforme la lumière du Soleil en électricité. Il est composé de petites **cellules** solaires faites d’un matériau spécial appelé **silicium**, qui capte l’énergie du Soleil.
 
 Quand la lumière du Soleil frappe le panneau, elle donne de l’énergie aux **électrons** (de minuscules particules qui composent la matière). Ces électrons commencent alors à bouger, créant un **courant électrique**. Ce courant peut ensuite être utilisé pour alimenter des appareils, allumer une lumière ou recharger une batterie.
 
@@ -85,16 +101,18 @@ Cependant, lorsque l’angle d’incidence augmente (c'est-à-dire lorsque le So
 
 ---
 
-### Activité 1: Pile voltaïque
+### Activité 1: 
+
+
 
 ---
 
-## Défi 2: 
+## Défi 2: Pile voltaïque
 ### Explication
 
 ---
 
-### Activité 2: 
+### Activité 2: Pile voltaïque
 
 L'exploration humaine de la Lune nécessite des ressources : eau, oxygène, nourriture, matériaux, propergols, etc. Il serait très inefficace et coûteux de tout ramener de la Terre. C'est pourquoi les concepteurs de la mission étudient comment utiliser les ressources déjà disponibles sur la Lune. L'une des ressources les plus importantes est l'eau. Les scientifiques ont trouvé des preuves de la présence d'eau dans certaines zones situées vers les pôles de la Lune. Lors d'une future mission sur la Lune, cette eau pourrait être utilisée pour produire de l'hydrogène et de l'oxygène pour la propulsion et de l'oxygène pour l'air respirable pour l'équipage. Dans cette série d'activités, nous allons étudier comment stocker l'énergie dans des batteries et comment produire de l'oxygène et de l'hydrogène à partir de l'eau. Pour ce faire, nous devons nous familiariser avec l'électrochimie ! L'électrochimie est la branche de la science qui étudie la relation entre l'électricité et la chimie. Certaines réactions chimiques peuvent créer de l'électricité, comme c'est le cas dans une pile. L'inverse est également possible : l'électricité peut provoquer certaines réactions chimiques qui ne se produiraient pas spontanément. Dans cette ressource, les élèves seront guidés à travers les principes et la chronologie de l'électrochimie, depuis l'invention de la première pile (la pile voltaïque) jusqu'à l'utilisation moderne des piles à combustible.
 
