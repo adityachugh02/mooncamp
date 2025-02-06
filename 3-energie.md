@@ -31,8 +31,12 @@ Investigating solar power requirements on space missions.
   - Enveloppes de missions
     
 - **Défi 1 :**
+  - Petits panneaux solaires (>1.8V)
+  - LEDs rouges
+  - Voltmètre (optionnel)
 
 - **Défi 2 :**
+  
 
 ---
 
@@ -56,14 +60,32 @@ Après la découverte du contenu de l'enveloppe de mission par les élèves, int
 
 ---
 
-## Défi 1: 
+## Défi 1: Panneau solaire
 ### Explication
 
-L'angle d'incidence, θ, de la lumière solaire sur un panneau solaire est également un facteur important pour la production d'électricité. Un panneau solaire recueille le plus efficacement l'énergie solaire lorsque les rayons du soleil sont perpendiculaires à la surface du panneau, avec un angle d'incidence de 0° (faisceau parfaitement perpendiculaire à la surface du panneau solaire), car cela maximise la surface de collecte effective
+**Un panneau solaire** transforme la lumière du Soleil en électricité. Il est composé de petites **cellules** solaires faites d’un matériau spécial appelé **silicium**, qui capte l’énergie du Soleil.
+
+Quand la lumière du Soleil frappe le panneau, elle donne de l’énergie aux **électrons** (de minuscules particules qui composent la matière). Ces électrons commencent alors à bouger, créant un **courant électrique**. Ce courant peut ensuite être utilisé pour alimenter des appareils, allumer une lumière ou recharger une batterie.
+
+L'énergie solaire est souvent utilisée pour alimenter les missions spatiales car c'est la seule source d'énergie qui n'a pas besoin d'être lancée avec le vaisseau spatial et qui peut alimenter ce dernier pendant plusieurs années. Dans cette ressource, nous étudierons deux facteurs importants qui doivent être pris en compte lors de la conception de panneaux solaires pour les missions spatiales: la **loi de l'inverse du carré** et l'**angle d'incidence**.
+
+Lorsqu’une source de lumière brille, comme une lampe ou le Soleil, son énergie se propage dans toutes les directions. Plus on s’éloigne de cette source, plus la lumière semble faible. Cela s’explique par la loi de l'inverse du carré, qui dit que l'intensité de la lumière diminue avec le **carré de la distance**.
+
+Autrement dit, si la distance entre une source de lumière et un objet est multipliée par 2, la quantité de lumière reçue devient 4 fois plus faible (car 2² = 4). Si la distance est multipliée par 3, la lumière reçue est 9 fois plus faible (car 3² = 9).
+
+Le Soleil envoie son énergie dans toutes les directions. Plus une planète est éloignée du Soleil, moins elle reçoit de lumière et de chaleur. Par exemple, la Terre reçoit beaucoup plus de lumière que Mars, car elle est plus proche du Soleil.
+
+Cette loi ne s’applique pas seulement à la lumière, mais aussi à d'autres phénomènes comme le son, la gravité et même les radiations. Dans le cas de l’exploration spatiale, elle est très importante pour comprendre comment utiliser l’énergie solaire sur la Lune. Comme la lumière s’affaiblit avec la distance, les panneaux solaires doivent être bien orientés et suffisamment grands pour capter un maximum d’énergie et alimenter les équipements des astronautes.
+
+**L’angle d’incidence**, noté θ, est l’angle entre les rayons du Soleil et la surface d’un panneau solaire. Cet angle joue un rôle clé dans l’efficacité de la production d’électricité, car il détermine combien d’énergie solaire le panneau peut capter.
+
+Un panneau solaire fonctionne au maximum de son efficacité lorsque les rayons du Soleil frappent perpendiculairement sa surface, c’est-à-dire avec un angle d’incidence de 0°. Dans cette configuration, toute la lumière solaire disponible est absorbée, ce qui permet de produire le plus d’électricité possible.
+
+Cependant, lorsque l’angle d’incidence augmente (c'est-à-dire lorsque le Soleil est plus bas dans le ciel ou que le panneau est mal orienté), une partie de la lumière est réfléchie au lieu d’être absorbée, et la surface effective du panneau exposée à la lumière diminue. 
 
 ---
 
-### Activité 1: 
+### Activité 1: Pile voltaïque
 
 ---
 
