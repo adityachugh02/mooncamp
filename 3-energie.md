@@ -157,9 +157,9 @@ Par exemple, en empilant **6 cellules**, on peut obtenir environ **5,5 volts**, 
 
 Discutez avec les élèves de l'importance de l'invention de la pile. Comment serait notre vie sans piles ? Pourrait-on concevoir une pile illimitée ? Discutez des raisons de l'inefficacité: le poids et la durée de vie limitée par rapport à la capacité de stockage et à la puissance produite.  
 
-Expliquez que l'énergie ne peut être que transformée, et non perdue ou créée. Discutez de la raison pour laquelle nous parlons encore de perte d'énergie (parce que la chaleur est une forme d'énergie difficile à utiliser).  
-
 Faites le lien avec les panneaux photovoltaïques, qui offrent une source d’énergie renouvelable, mais qui ont aussi leurs propres limites, notamment leur dépendance à la lumière du Soleil et leur besoin d’un système de stockage comme les batteries pour fonctionner en continu.
+
+Expliquez que l'énergie ne peut être que transformée, et non perdue ou créée. Discutez de la raison pour laquelle nous parlons encore de perte d'énergie (parce que la chaleur est une forme d'énergie difficile à utiliser).  
 
 ---
 
