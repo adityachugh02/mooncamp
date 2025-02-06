@@ -120,10 +120,6 @@ Cependant, lorsque l’angle d’incidence augmente (c'est-à-dire lorsque le So
 ## Défi 2: Pile voltaïque
 ### Explication
 
----
-
-### Activité 2: Pile voltaïque
-
 L'exploration humaine de la Lune nécessite diverses ressources et il serait très inefficace et coûteux de tout ramener de la Terre. C'est pourquoi les concepteurs de la mission étudient comment utiliser les ressources déjà disponibles sur la Lune. L'une des ressources les plus importantes est l'eau. Les scientifiques ont trouvé des preuves de la présence d'eau dans certaines zones situées vers les pôles de la Lune. Lors d'une future mission sur la Lune, cette eau pourrait être utilisée pour produire de l'hydrogène et de l'oxygène pour la propulsion et de l'oxygène pour l'air respirable pour l'équipage. Dans cette série d'activités, nous allons étudier comment stocker l'énergie dans des batteries et comment produire de l'oxygène et de l'hydrogène à partir de l'eau. Pour ce faire, nous devons nous familiariser avec l'électrochimie! 
 
 L’électrochimie est une branche de la science qui étudie comment certaines réactions chimiques peuvent produire de l’électricité. C’est le principe qui permet aux piles et aux batteries de fonctionner: elles utilisent des réactions chimiques pour créer un courant électrique et alimenter des appareils comme une lampe de poche ou un téléphone.
@@ -151,6 +147,9 @@ Avec le temps, plusieurs choses diminuent l’efficacité de la pile:
 Une seule pile de Volta ne produit qu’environ **1 volt**, ce qui est insuffisant pour beaucoup d’appareils. Pour obtenir plus d’électricité, on peut **empiler plusieurs piles** pour créer une **pile plus puissante**, appelée **voltaic pile**.  
 Par exemple, en empilant **6 cellules**, on peut obtenir environ **5,5 volts**, soit presque autant qu’une pile carrée de 9V utilisée dans certains appareils électroniques.  
 
+---
+
+### Activité 2: Pile voltaïque
 
 ---
 
