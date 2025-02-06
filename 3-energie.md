@@ -16,29 +16,29 @@ Dans cette activité, les élèves découvriront comment produire de l’électr
 
 ### Objectifs d'apprentissage
 
-Understanding the angle of incidence.
-Learning about solar cells.
-Constructing simple electric circuits using solar cells.
-Learning about electric potential difference, electric current, power and light intensity.
-Investigating solar power requirements on space missions.
-
+- Apprendre les concepts de potentiel électrique, le courant électrique et l'intensité lumineuse.
+- Construire des circuits électriques simples.
+- Comprendre l'utilisation des cellules solaires.
+- Comprendre l'angle d'incidence et la loi de l'inverse du carré.
+- Comprendre le fonctionnement d'une batterie.
+- Réaliser une expérience pour confirmer que certaines réactions chimiques peuvent créer de l'électricité.
+- Utiliser le matériel de manière appropriée pour effectuer et enregistrer des observations.
 
 ---
 
 ### Déroulement de l'activité
 
 1. **Introduction (10 minutes)**  
+Présentation des défis énergétiques sur la Lune et des solutions utilisées pour produire de l’électricité dans l’espace.  
 
-   
+2. **Défi 1 : Production d'électricité à partir d'un panneau photovoltaïque (40 minutes)**  
+Expérimentation avec un panneau solaire pour observer la conversion de la lumière en électricité.  
 
-2. **Défi 1: Production d'électricité à partir d'un panneau photovoltaïque (40 minutes)**
+3. **Défi 2 : Construction d'une pile voltaïque (60 minutes)**  
+Fabrication d’une pile simple pour comprendre la production d’électricité par réaction chimique.  
 
-   
-
-3. **Défi 2: Construction d'une pile voltaïque (60 minutes)**
-
-
-4. **Conclusion (10 minutes)**
+4. **Conclusion (10 minutes)**  
+Discussion sur les résultats et réflexion sur l’utilisation de ces technologies pour l’exploration lunaire.
 
 
 ### Matériel
@@ -117,10 +117,6 @@ Cependant, lorsque l’angle d’incidence augmente (c'est-à-dire lorsque le So
 ### Activité 2: Pile voltaïque
 
 L'exploration humaine de la Lune nécessite des ressources : eau, oxygène, nourriture, matériaux, propergols, etc. Il serait très inefficace et coûteux de tout ramener de la Terre. C'est pourquoi les concepteurs de la mission étudient comment utiliser les ressources déjà disponibles sur la Lune. L'une des ressources les plus importantes est l'eau. Les scientifiques ont trouvé des preuves de la présence d'eau dans certaines zones situées vers les pôles de la Lune. Lors d'une future mission sur la Lune, cette eau pourrait être utilisée pour produire de l'hydrogène et de l'oxygène pour la propulsion et de l'oxygène pour l'air respirable pour l'équipage. Dans cette série d'activités, nous allons étudier comment stocker l'énergie dans des batteries et comment produire de l'oxygène et de l'hydrogène à partir de l'eau. Pour ce faire, nous devons nous familiariser avec l'électrochimie ! L'électrochimie est la branche de la science qui étudie la relation entre l'électricité et la chimie. Certaines réactions chimiques peuvent créer de l'électricité, comme c'est le cas dans une pile. L'inverse est également possible : l'électricité peut provoquer certaines réactions chimiques qui ne se produiraient pas spontanément. Dans cette ressource, les élèves seront guidés à travers les principes et la chronologie de l'électrochimie, depuis l'invention de la première pile (la pile voltaïque) jusqu'à l'utilisation moderne des piles à combustible.
-
----
-
-### Activité extra:
 
 ---
 
