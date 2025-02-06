@@ -76,7 +76,7 @@ Discussion sur les résultats et réflexion sur l’utilisation de ces technolog
 
 > C’est là qu’interviennent les **batteries**, qui permettent de **stocker l’énergie produite par les panneaux solaires** pour être utilisée lorsque le Soleil est absent. Par exemple, les **rovers martiens comme Perseverance** combinent l’énergie solaire avec une batterie rechargeable pour fonctionner même lorsque le Soleil ne brille pas. Dans d’autres cas, des **générateurs à radioisotopes** sont utilisés pour produire de l’électricité à partir de la chaleur dégagée par la désintégration d’éléments radioactifs. Ces technologies permettent aux missions spatiales de continuer à fonctionner dans des environnements extrêmes.  
 
-Dans cette activité, les élèves vont explorer deux façons de produire de l’électricité: avec un panneau solaire, et avec une pile de Volta (pile voltaïque), une invention utilisant des réactions chimiques pour générer de l’énergie.
+Dans cette activité, les élèves vont explorer deux façons de produire de l’électricité: avec un panneau solaire, et avec une pile voltaïque (inventée en 1800 par Alessandro Volta), une invention utilisant des réactions chimiques pour générer de l’énergie.
 
 Commencez par raconter aux élèves des faits historiques sur le transport spatial (cf. ci-dessus) et quelques anecdotes sur des projets spatiaux actuels et futurs tel que le projet [Artemis I](www.esa.int/Our_Activities/Human_Spaceflight/Orion/Exploration_Mission_1) utilisant le vaisseau spatial [Orion](www.esa.int/Our_Activities/Human_Spaceflight/Orion/What_is_Orion). Vous pouvez, par exemple, animer les explications à l'aide de clips vidéos.
 
@@ -152,6 +152,25 @@ Par exemple, en empilant **6 cellules**, on peut obtenir environ **5,5 volts**, 
 ### Activité 2: Pile voltaïque
 
 Commencez par introduire le concept d'électrochimie et la définition de la différence de potentiel électrique expliqué ci-dessus.
+
+
+
+1. Poncez les deux côtés des plaques de zinc et de cuivre avec du papier de verre et découpez 6 carrés dans le torchon de la même taille que les plaques.
+
+2. Placez un carré de torchon sur une plaque de zinc et trempez-le dans du vinaigre. Placez ensuite une plaque de cuivre sur le torchon. Vous avez maintenant une cellule voltaïque. Reliez les fils avec les pinces crocodiles à la première et à la dernière plaque, puis connectez-les à un multimètre.
+
+3. Créez plusieurs cellules voltaïques en suivant les instructions de l'étape 1 et 2.
+
+4. Empiler les cellules dans l'ordre indiqué
+
+5. Attachez des élastiques autour du tas pour le maintenir en place.
+
+6. Connectez les fils avec les pinces crocodiles à la première et à la dernière plaque et branchez-les à un multimètre.
+  
+7. Tracez un graphique de la différence de potentiel électrique en fonction du temps.
+
+
+
 
 Après avoir assemblé la cellule, ils doivent brancher un multimètre et mesurer la différence de potentiel électrique.
 
