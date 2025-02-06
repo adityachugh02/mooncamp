@@ -54,7 +54,15 @@ Discussion sur les résultats et réflexion sur l’utilisation de ces technolog
   - Voltmètre (optionnel)
 
 - **Défi 2 :**
-  
+  - 6 plaques de zinc (par groupe)
+  - 6 plaques de cuivre (par groupe)
+  - 1 torchon (par groupe)
+  - Ciseaux
+  - Vinaigre
+  - Papier de verre
+  - 2 élastiques
+  - Fils de fer avec pinces crocodiles
+  - Voltmètre (optionnel)
 
 ---
 
@@ -116,7 +124,9 @@ Cependant, lorsque l’angle d’incidence augmente (c'est-à-dire lorsque le So
 
 ### Activité 2: Pile voltaïque
 
-L'exploration humaine de la Lune nécessite des ressources : eau, oxygène, nourriture, matériaux, propergols, etc. Il serait très inefficace et coûteux de tout ramener de la Terre. C'est pourquoi les concepteurs de la mission étudient comment utiliser les ressources déjà disponibles sur la Lune. L'une des ressources les plus importantes est l'eau. Les scientifiques ont trouvé des preuves de la présence d'eau dans certaines zones situées vers les pôles de la Lune. Lors d'une future mission sur la Lune, cette eau pourrait être utilisée pour produire de l'hydrogène et de l'oxygène pour la propulsion et de l'oxygène pour l'air respirable pour l'équipage. Dans cette série d'activités, nous allons étudier comment stocker l'énergie dans des batteries et comment produire de l'oxygène et de l'hydrogène à partir de l'eau. Pour ce faire, nous devons nous familiariser avec l'électrochimie ! L'électrochimie est la branche de la science qui étudie la relation entre l'électricité et la chimie. Certaines réactions chimiques peuvent créer de l'électricité, comme c'est le cas dans une pile. L'inverse est également possible : l'électricité peut provoquer certaines réactions chimiques qui ne se produiraient pas spontanément. Dans cette ressource, les élèves seront guidés à travers les principes et la chronologie de l'électrochimie, depuis l'invention de la première pile (la pile voltaïque) jusqu'à l'utilisation moderne des piles à combustible.
+L'exploration humaine de la Lune nécessite diverses ressources et il serait très inefficace et coûteux de tout ramener de la Terre. C'est pourquoi les concepteurs de la mission étudient comment utiliser les ressources déjà disponibles sur la Lune. L'une des ressources les plus importantes est l'eau. Les scientifiques ont trouvé des preuves de la présence d'eau dans certaines zones situées vers les pôles de la Lune. Lors d'une future mission sur la Lune, cette eau pourrait être utilisée pour produire de l'hydrogène et de l'oxygène pour la propulsion et de l'oxygène pour l'air respirable pour l'équipage. Dans cette série d'activités, nous allons étudier comment stocker l'énergie dans des batteries et comment produire de l'oxygène et de l'hydrogène à partir de l'eau. Pour ce faire, nous devons nous familiariser avec l'électrochimie! 
+
+L'électrochimie est la branche de la science qui étudie la relation entre l'électricité et la chimie. Certaines réactions chimiques peuvent créer de l'électricité, comme c'est le cas dans une pile. L'inverse est également possible: l'électricité peut provoquer certaines réactions chimiques qui ne se produiraient pas spontanément. Dans cette ressource, les élèves seront guidés à travers les principes et la chronologie de l'électrochimie, depuis l'invention de la première pile (la pile voltaïque) jusqu'à l'utilisation moderne des piles à combustible.
 
 ---
 
