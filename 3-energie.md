@@ -132,6 +132,26 @@ Pour comprendre comment cela fonctionne, il faut parler de la différence de pot
 
 Dans une pile, deux métaux différents sont plongés dans un liquide conducteur. Un des métaux libère plus facilement ses électrons que l’autre, créant ainsi une différence de potentiel. Cela pousse les électrons à se déplacer à travers un fil, formant un courant électrique qui peut allumer une LED ou faire fonctionner un appareil.
 
+#### Comment fonctionne la pile voltaïque?
+ 
+Une pile a **deux plaques métalliques** : une en **zinc** et une en **cuivre**. Le **zinc** participe activement à la réaction chimique. Il **perd des électrons** et se transforme progressivement en une fine couche d’oxyde (ce qui le rend terne). C’est pour cela qu’il doit parfois être poncé pour bien fonctionner. Le **cuivre**, lui, ne réagit pas chimiquement, il sert juste à **transporter les électrons** d’un point à l’autre du circuit. On pourrait utiliser un autre métal conducteur à la place.  
+
+Pour que la réaction fonctionne, il faut un **liquide spécial** appelé **électrolyte**. Dans notre cas, c’est **le vinaigre**. L’électrolyte contient des **ions** (petites particules chargées) qui permettent aux charges électriques de circuler entre le zinc et le cuivre. Tous les liquides ne fonctionnent pas : l’eau pure, par exemple, ne conduit presque pas l’électricité. Mais si on y ajoute **du sel ou un acide** comme du vinaigre, cela devient un bon conducteur.  
+
+Quand la pile est connectée à un circuit (par exemple, pour allumer une LED), voici ce qu'il se passe:  
+- **Le zinc se décompose** : il libère des **électrons** et des ions.  
+- Les **électrons circulent** dans le circuit à travers le fil conducteur. Ce mouvement des électrons est ce qu’on appelle **le courant électrique** !  
+- À l’autre extrémité de la pile, sur la plaque de cuivre, **les électrons sont récupérés par des ions hydrogène (H⁺)** présents dans l’électrolyte. Cela forme des **bulles de gaz** sur le cuivre. Ce phénomène, appelé **polarisation**, finit par gêner le passage de l’électricité, ce qui réduit l’efficacité de la pile avec le temps.  
+
+Avec le temps, plusieurs choses diminuent l’efficacité de la pile:  
+- **Une couche d’oxyde se forme sur le zinc**, réduisant la surface disponible pour la réaction.  
+- **Des bulles de gaz s’accumulent sur le cuivre**, ralentissant le passage des électrons.  
+- **Le vinaigre s’épuise**, et il devient moins efficace pour transporter les charges électriques.  
+
+Une seule pile de Volta ne produit qu’environ **1 volt**, ce qui est insuffisant pour beaucoup d’appareils. Pour obtenir plus d’électricité, on peut **empiler plusieurs piles** pour créer une **pile plus puissante**, appelée **voltaic pile**.  
+Par exemple, en empilant **6 cellules**, on peut obtenir environ **5,5 volts**, soit presque autant qu’une pile carrée de 9V utilisée dans certains appareils électroniques.  
+
+
 ---
 
 ### Conclusion
