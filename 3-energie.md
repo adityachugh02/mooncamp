@@ -12,6 +12,8 @@
 
 ### Résumé
 
+Dans cette activité, les élèves découvriront comment produire de l’électricité en utilisant deux méthodes différentes : l’énergie solaire et une réaction chimique. Ils commenceront par expérimenter un panneau solaire en captant la lumière pour allumer une petite LED, illustrant comment l’énergie du Soleil peut être transformée en électricité. Ensuite, ils fabriqueront une pile de Volta, une batterie simple qui génère de l’énergie grâce à une réaction chimique entre des métaux et un liquide conducteur. À travers ces expériences, ils comprendront l’importance de la production d’énergie pour les missions spatiales et les défis liés à production d'électricité sur la Lune.
+
 ### Objectifs d'apprentissage
 
 Understanding the angle of incidence.
