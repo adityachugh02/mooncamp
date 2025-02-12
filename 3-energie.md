@@ -165,25 +165,18 @@ Commencez par introduire le concept d'électrochimie et la définition de la dif
 
 5. Attachez des élastiques autour du tas pour le maintenir en place.
 
-6. Connectez les fils avec les pinces crocodiles à la première et à la dernière plaque et branchez-les à un multimètre.
+6. Connectez les fils avec les pinces crocodiles à la première et à la dernière plaque et branchez-les à une lampe LED.
   
 7. Tracez un graphique de la différence de potentiel électrique en fonction du temps.
 
 
-
-
 Après avoir assemblé la cellule, ils doivent brancher un multimètre et mesurer la différence de potentiel électrique.
-
 
 Demandez aux élèves d'expliquer pourquoi ils obtiennent une différence de potentiel électrique et quelle est la fonction de chaque couche dans la pile voltaïque.
 
-Les élèves doivent maintenant empiler plusieurs cellules voltaïques pour obtenir une pile voltaïque. Ils doivent mesurer la différence de potentiel électrique de la pile une fois par minute pendant 10 minutes et consigner les mesures dans le tableau 1 de leur fiche de travail. Entre les mesures, ils doivent répondre aux questions correspondantes dans leur fiche de travail.
+Demandez aux élèves de tracer l'intensité de la lampe LED alimentée par la pile voltaïque en fonction du temps sur un graphique.
 
-Demandez aux élèves de tracer la différence de potentiel électrique de la pile voltaïque en fonction du temps.
-
-Ils doivent découvrir que la différence de potentiel électrique diminue avec le temps. Demandez aux élèves pourquoi ils pensent que cela se produit. Pour démontrer que la pile voltaïque peut générer du courant, vous pouvez l'utiliser pour allumer une LED.
-
-Pour démontrer que la pile voltaïque peut générer du courant, vous pouvez l'utiliser pour allumer une LED ou faire tourner un moteur, comme le montre la figure 2, et étudier combien de temps la pile voltaïque est capable d'alimenter l'actionneur.
+Ils doivent découvrir que la différence de potentiel électrique diminue avec le temps. Demandez aux élèves pourquoi ils pensent que cela se produit.
 
 Demandez aux élèves de comparer leur pile voltaïque avec une pile AA normale. Expliquez-leur comment fonctionne une pile normale et quelles sont les limites de la pile voltaïque.
 
