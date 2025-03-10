@@ -37,10 +37,12 @@ Présentation du rôle des plantes dans notre alimentation et des raisons pour l
 2. **Défi 1 : Familiarisation avec les différentes parties d'une plante (40 minutes)**  
 Comparaison à l'aide de fiches de plusieurs plantes cultivées sur Terre et sélection des meilleures candidates pour l'agriculture lunaire.
 
-3. **Défi 2 : Contraintes physiques et environnementales de l'agriculture sur la surface lunaire (40 minutes)**
+3. **Défi 2 : Contraintes physiques et environnementales de l'agriculture sur la surface lunaire (40 minutes)** 
 Prise de conscience de l'hostilité des conditions environnementales sur la Lune pour la croissance des végétaux et des caractéristiques que devra posséder une "serre lunaire" pour répondre aux besoins des plantes terrestres.
+
 4. **Défi 3 : Insectes comme source de nourriture ?**
 [Proposer l'idée]
+
 5. **Conclusion (10 minutes)**  
 Discussion des résultats et réflexion sur l'importance des plantes dans l'alimentation de la vie de tout les jours des futurs astronautes.
 
