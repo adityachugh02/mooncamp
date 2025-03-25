@@ -56,7 +56,7 @@ Discussion des résultats et réflexion sur l'importance des plantes dans l'alim
   - Fiches informatives sur les plantes candidates
 
 - **Défi 2 :**
-  - Fiches d'illustrations de plantes extémophiles
+  - Fiches d'illustrations de plantes extrêmophiles
 
 ---
 
@@ -80,7 +80,7 @@ Après la découverte du contenu de l'enveloppe de mission par les élèves, int
 ### Explication
 Les plantes sont au premier plan quant au choix de la nourriture pouvant consituer l'alimentation d'un colon lunaire car ces dernières sont plus économes en ressources que le sont les animaux élevés pour leur viande. Cette différence est du à la façon dont les plantes et les animaux produisent leur énergie afin d'assurer leur croissance.
 
-Les plantes sont ce qu'on appelle des "producteurs primaires" car ils convertissent le rayonnement lumineux solaire, l'eau et le dioxyde de carbone en énergie utilisable par la plante à l'aide de la photosynthèse, c'est à dire une réaction chimique qui se produit dans des orgnanites spécialisés appelés chloroplastes que l'on trouve principalement dans les cellules végétales. Sur Terre, dans les régions dont les conditions environnementales sont relativement favorables, ces ressources sont presque illimitées et la croissances des plantes n'est restreinte que par quelques éléments majeurs (principalement l'azote, le potassium et le phosphore) présent dans les sol et l'espace (accès au rayonnement solaire). Cela signifie que, sauf exceptions, la plupart des plantes ne dépendent pas d'autres organismes pour assurer leur croissance et sont donc a la base de la plupart des chaînes alimentaires terrestres. 
+Les plantes sont ce qu'on appelle des "producteurs primaires" car ils convertissent le rayonnement lumineux solaire, l'eau et le dioxyde de carbone en énergie utilisable par la plante à l'aide de la photosynthèse: c'est à dire une réaction chimique qui se produit dans des orgnanites spécialisés appelés chloroplastes que l'on trouve principalement dans les cellules végétales. Sur Terre, dans les régions dont les conditions environnementales sont relativement favorables, ces ressources sont presque illimitées et la croissances des plantes n'est restreinte que par quelques éléments majeurs (principalement l'azote, le potassium et le phosphore) présent dans les sol et l'espace (accès au rayonnement solaire). Cela signifie que, sauf exceptions, la plupart des plantes ne dépendent pas d'autres organismes pour assurer leur croissance et sont donc a la base de la plupart des chaînes alimentaires terrestres. 
 
 Les animaux eux, en revanche, sont ce qu'on appelle des "consommateurs" et ceux que l'on élève typiquement pour produire de la viande sont herbivores, c'est à dire qu'ils se nourrissent principalement de plantes et en sont donc dépendants pour assurer leur croissance. Sachant celà, il faudrait donc également cultiver des végétaux afin de nourrir ces élevages d'animaux et il est bien plus économique d'utiliser la production de plantes pour s'alimenter directement car la quantité d'énergie nécessaire pour produire 1 kg de matière végétale est, en moyenne, 10 fois inférieure à celle requise pour produire 1kg de viande. 
 
@@ -89,14 +89,26 @@ Cependant, toutes les plantes se sont pas égales face au choix des chercheurs, 
 ---
 
 ### Activité 1: Familiarisation avec les différentes parties d'une plante
+Repartissez les élèves en groupes et distribuez ensuite les fiches informatives sur les plantes candidates. Chaque groupe recevra exactement les mêmes fiches. 
 
+Demandez leur de prendre connaissance des différentes caractéristiques détaillées sur chaque fiche et de faire un classement des meilleurs choix (top 3-5), selon eux, lorsqu'il s'agira de faire pousser des plantes comestibles dans l'espace. Ces choix devront êtres justifiés sur base des critères qui sont les plus importants, d'après eux, dans la balance lors de la sélection. 
 
+Vous pouvez également mentionner aux élèves qu'ils peuvent réfléchir à des paramètres qui ne sont pas repris sur les fiches tels que : la saveur des végétaux, les potentielles allergies, etc [voir en fonction de ce qu'on choisi d'indiquer sur les fiches].
 
+Discutez ensuite avec les élèves des choix qu'ils ont fait et mettez en évidence les avantages et incovénients de ceux-ci.
 
 ---
 
-## Défi 2: 
+## Défi 2: Construction d'une serre lunaire
 ### Explication
+Les conditions environnementales lunaires sont inhospitalières à toutes les formes de vie connues, il est donc indispensable de concevoir des serres adaptées afin de pouvoir cultiver des plantes sur la Lune à moyenne voir grande échelle. Certains prototypes de taille réduite ont déjà été testés comme celui qui a permis aux astronautes à bord de l'ISS de faire pousser une laitue lors du projet VEGGIE en 2015. Les scientifiques s'attellent désormais à des design plus grands et plus ambitieux permettant la culture des végétaux en cycle pratiquement fermés. Le projet LGH (prototype Lunar Greenhouse) de l'université d'Arizona a proposé sa solution sous forme de serres cylindriques gonfables utilisant principalement le dioxyde de carbone exhalé par les astronautes et l'eau accessible sur la Lune afin de produire à la fois de la nourriture et de l'oxygène respirable par ces derniers.
+
+Cette serre devra pouvoir répondre à des conditions particulièrement extrêmes comme: 
+1) L'absence d'atmopshère et donc de gaz nécessaires à la croissance des plantes. En effet, les plantes pratiquent la photosynthèse pour générer leur énergie et celle-ci requiert du dioxyde de carbone qui est généralement (pour les plantes terrestres) assimilé sous forme gazeuse via des cellules spécialisées au niveau des feuilles que l'on appelle stomates. Ces stomates fonctionnent comme des pores pouvant être ouverts pour favoriser les échanges gazeux ou fermés pour limités les pertes via l'évaporation.
+2) Les températures sur la surface lunaire pouvant aller de -233°C à 123°C. Pour la plupart des plantes, la photosynthèse peut avoir lieu si la température ambiante se situe, en moyenne, entre 10°C et 34°C avec quelques exeptions comme c'est le cas pour certaines plantes en Antarctique où la photosynthèse peut avoir lieu à 8°C et d'autre plantes désertiques en Amérique Centrale où elle peut avoir lieu à 45°C. Il faut donc que la serre puisse réduire l'amplitude de températures présentes sur la Lune afin de pouvoir supporter la photosynthèse des plantes que nous allons cultiver. Certaines regions, comme les pôles ou encore le sous-terrain lunaire pourraient présenter des avantages avec des températures beaucoup plus proches de ce que nous cherchons à reproduire.
+3) La période d'ensoleillement, qui consiste en 14 jours terrestres suivi de 14 nuits. Comme pour la température, la période d'ensoleillement varie en fonction de la localisation sur la Lune. Les pôles sont eux, par exemple, en permanence ensoleillés. L'absence de lumière semble une contrainte évidente pour la croissance des plantes, mais l'ensoleillement permament peut, malgré qu'il promeut la croissance via une production accrue d'énergie par la photosynthèse, causer des dérèglements au niveau d'autre mécanismes nécessaires au bon développement de la plante comme la synthèse de certaines hormones impliquées notamment dans la formation des fleurs et des fruits.
+ 
+Avec environ 400 000 espèces décrites, les plantes ont conquis presques tout les milieux sur Terre. Certaines ont su d'adapter à des biomes peu propices à la vie où règnent des conditions environnementales hostiles telles que des températures extrêmement chaudes ou froides, des précipitations presque inexistantes, des sols particulièrement pauvres en nutriments ou encore des périodes d'ensoleillement très courtes limitant la croissance des plantes. On qualifie ces plantes d'etrêmophiles, des chercheurs en astrobiologie se sont déjà penchés sur l'étude des différentes stratégies qui permettent leur survie dans des conditions très défavorables au développement des êtres vivants dans le but de prédire comment des organismes similaires pourraient avoir emergé sur des exoplanètes. L'étude de ces plantes pourraient également aboutir à de nouvelles méthodes pouvant être appliquée à l'agriculture lunaire.
 
 ---
 
@@ -108,6 +120,7 @@ Cependant, toutes les plantes se sont pas égales face au choix des chercheurs, 
 ### Conclusion
 
 Discutez avec les élèves de l'importance 
+
 ---
 
 ## Annexes
