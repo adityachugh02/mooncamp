@@ -124,6 +124,14 @@ Discutez avec les élèves de l'importance
 ---
 
 ## Annexes
+#### Fiche de mission à fournir aux élèves dans l'enveloppe de mission.
+Chers astronautes en herbe,  
+
+*Bienvenue dans votre base lunaire. Après un long voyage dans l’espace, vous êtes maintenant confrontés à un défi de taille : comment vous nourrir sur la Lune, un endroit où rien ne pousse naturellement ? Pour survivre et accomplir votre mission, vous allez devoir apprendre à produire votre propre nourriture en choisissant les plantes les plus utiles et les plus résistantes. Vous étudierez différentes espèces cultivées sur Terre, comparerez leurs avantages et leurs inconvénients, puis sélectionnerez celles qui pourraient pousser dans votre serre lunaire. Ensuite, vous devrez comprendre ce dont les plantes ont besoin pour vivre et grandir afin d’imaginer comment recréer ces conditions dans votre base. Votre mission est essentielle : assurer votre autonomie alimentaire, produire de l’oxygène et préparer les futures explorations spatiales plus lointaines. À vous de jouer, futurs agriculteurs de l’espace !*
+
+
+*Fin de transmission.*
+
 #### Plantes candidates pour une agriculture lunaire
 | **Plante**            | **Avantages**                                                                                          | **Inconvénients**                                                              |
 |-----------------------|--------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------|
