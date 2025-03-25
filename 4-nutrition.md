@@ -124,3 +124,31 @@ Discutez avec les élèves de l'importance
 ---
 
 ## Annexes
+#### Plantes candidates pour une agriculture lunaire
+| **Plante**            | **Avantages**                                                                                          | **Inconvénients**                                                              |
+|-----------------------|--------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------|
+| **Pommes de terre**   | Très nutritives, riches en glucides, pousse rapide, facile à multiplier                                | Besoin de sol meuble, consomme beaucoup d’eau                                   |
+| **Laitue**            | Croissance rapide, peu gourmande en ressources, riche en vitamines                                      | Peu calorique, fragile                                                          |
+| **Épinards**          | Riches en fer et vitamines, bonne productivité                                                          | Demande un bon éclairage                                                       |
+| **Blé**        | Source de glucides, permet de faire du pain ou des pâtes                                                | Cycle plus long, pollinisation plus difficile en milieu fermé                  |
+| **Tomates**   | Apport en vitamines, bonne production, comestible crue                                                  | Besoin de tuteurs, plantes fragiles                                            |
+| **Haricots**  | Source de protéines végétales, enrichissent le sol en azote                                             | Plantes grimpantes, besoin de supports                                         |
+| **Radis**             | Pousse très rapide (en 3-4 semaines), facile à cultiver                                                 | Peu calorique, mais bon pour varier les repas                                  |
+| **Carottes**          | Bonne réserve de glucides et de vitamines, stockage facile                                              | Cycle de culture plus long                                                      |
+| **Herbes aromatiques** (basilic, persil, ciboulette) | Peuvent améliorer le goût des plats, croissance rapide                                      | Faible apport calorique                                                        |
+| **Algues**| Très riches en protéines, vitamines et minéraux, peuvent pousser en bioréacteur                         | Culture spécifique à l’eau, demande une installation technique adaptée  
+
+#### Tableau des caractéristiques des plantes (à compléter par les élèves)
+| Plantes | Consommation de l'eau | Comestibilité | Facilité de conservation | Facilité de culture | Apport calorique | Taille de la plante |
+|---------|-----------------------|---------------|--------------------------|---------------------|------------------|---------------------|
+| **Pommes de terre**|
+| **Laitue**|                           
+| **Épinards**|                                   
+| **Blé**| 
+| **Tomates** |
+| **Haricots**| 
+| **Radis**|
+| **Carottes** | 
+| **Herbes aromatiques** (basilic, persil, ciboulette) | 
+| **Algues**| 
+
