@@ -118,8 +118,7 @@ Avec environ 400 000 espèces décrites, les plantes ont conquis presques tout l
 ---
 
 ### Conclusion
-
-Discutez avec les élèves de l'importance 
+Cette activité a permis aux élèves de réfléchir aux défis de l’agriculture en milieu lunaire. En choisissant des plantes adaptées et en identifiant les conditions nécessaires à leur culture, ils ont pris conscience des contraintes d’une autonomie alimentaire dans l’espace. Ce travail ouvre aussi une réflexion plus large sur la gestion des ressources et les liens entre agriculture spatiale et durabilité sur Terre.
 
 ---
 
