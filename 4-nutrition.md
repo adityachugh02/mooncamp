@@ -91,7 +91,7 @@ Cependant, toutes les plantes se sont pas égales face au choix des chercheurs, 
 ### Activité 1: Familiarisation avec les différentes parties d'une plante
 Repartissez les élèves en groupes et distribuez ensuite les fiches informatives sur les plantes candidates. Chaque groupe recevra exactement les mêmes fiches. 
 
-Demandez leur de prendre connaissance des différentes caractéristiques détaillées sur chaque fiche et de faire un classement des meilleures plantes (top 3-5) lorsqu'il s'agira de faire pousser ces dernières dans l'espace. Ces choix devront êtres justifiés sur base des critères qui sont les plus importants, d'après eux, dans la balance lors de la sélection. 
+Commencez par expliquer les caractéristiques des plantes candidates pour une agriculture lunaire (cf. annexe). Demandez leur ensuite de prendre connaissance des différentes caractéristiques détaillées sur chaque fiche et de faire un classement des meilleures plantes (top 3-5) lorsqu'il s'agira de faire pousser ces dernières dans l'espace. Ces choix devront êtres justifiés sur base des critères qui sont les plus importants, d'après eux, dans la balance lors de la sélection. 
 
 Vous pouvez également mentionner aux élèves qu'ils peuvent réfléchir à des paramètres qui ne sont pas repris sur les fiches tels que : la saveur des végétaux, les potentielles allergies, etc [voir en fonction de ce qu'on choisi d'indiquer sur les fiches].
 
@@ -132,7 +132,7 @@ Chers astronautes en herbe,
 
 *Fin de transmission.*
 
-#### Plantes candidates pour une agriculture lunaire
+#### A. Plantes candidates pour une agriculture lunaire
 | **Plante**            | **Avantages**                                                                                          | **Inconvénients**                                                              |
 |-----------------------|--------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------|
 | **Pommes de terre**   | Très nutritives, riches en glucides, pousse rapide, facile à multiplier                                | Besoin de sol meuble, consomme beaucoup d’eau                                   |
@@ -146,17 +146,19 @@ Chers astronautes en herbe,
 | **Herbes aromatiques** (basilic, persil, ciboulette) | Peuvent améliorer le goût des plats, croissance rapide                                      | Faible apport calorique                                                        |
 | **Algues**| Très riches en protéines, vitamines et minéraux, peuvent pousser en bioréacteur                         | Culture spécifique à l’eau, demande une installation technique adaptée  
 
-#### Tableau des caractéristiques des plantes (à compléter par les élèves)
+#### B. Tableau des caractéristiques des plantes
+Voici le tableau avec des **X** pour les inconvénients ou contraintes et des **V** pour les avantages ou caractéristiques favorables :
+
 | Plantes | Consommation de l'eau | Comestibilité | Facilité de conservation | Facilité de culture | Apport calorique | Taille de la plante |
 |---------|-----------------------|---------------|--------------------------|---------------------|------------------|---------------------|
-| **Pommes de terre**|
-| **Laitue**|                           
-| **Épinards**|                                   
-| **Blé**| 
-| **Tomates** |
-| **Haricots**| 
-| **Radis**|
-| **Carottes** | 
-| **Herbes aromatiques** (basilic, persil, ciboulette) | 
-| **Algues**| 
+| **Pommes de terre** | X | V | V | V | V | V |
+| **Laitue** | V | V | X | V | X | V |
+| **Épinards** | V | V | X | V | X | V |
+| **Blé** | X | V | V | X | V | V |
+| **Tomates** | X | V | X | X | X | X |
+| **Haricots** | X | V | V | V | V | X |
+| **Radis** | V | V | X | V | X | V |
+| **Carottes** | V | V | V | V | V | V |
+| **Herbes aromatiques** | V | V | V | V | X | V |
+| **Algues** | V | V | V | V | V | V |
 
