@@ -3,7 +3,7 @@
 
 ---
 
-### Activité : Familiarisation avec les différentes parties d'une plante et défis de l'agriculture lunaire
+### Activité : Comparaison des apports nutritifs et autres caractéristiques des plantes cultivées par l'homme et défis de l'agriculture lunaire
 
 **Public:** Élèves de 8 à 12 ans  
 **Durée:** 2 heures  
@@ -34,7 +34,7 @@ Une fois ces plantes sélectionnées, les élèves pourront alors se pencher sur
 1. **Introduction (10 minutes)**  
 Présentation du rôle des plantes dans notre alimentation et des raisons pour lesquelles elles sont généralement plus adaptées que les animaux comme source de nourriture sur la Lune.
 
-2. **Défi 1 : Familiarisation avec les différentes parties d'une plante (40 minutes)**  
+2. **Défi 1 : Comparaison des apports nutritifs et autres caractéristiques des plantes cultivées par l'homme (40 minutes)**  
 Comparaison à l'aide de fiches de plusieurs plantes cultivées sur Terre et sélection des meilleures candidates pour l'agriculture lunaire.
 
 3. **Défi 2 : Contraintes physiques et environnementales de l'agriculture sur la surface lunaire (40 minutes)** 
@@ -88,7 +88,7 @@ Cependant, toutes les plantes se sont pas égales face au choix des chercheurs, 
 
 ---
 
-### Activité 1: Familiarisation avec les différentes parties d'une plante
+### Activité 1: Comparaison des apports nutritifs et autres caractéristiques des plantes cultivées par l'homme
 Repartissez les élèves en groupes et distribuez ensuite les fiches informatives sur les plantes candidates. Chaque groupe recevra exactement les mêmes fiches. 
 
 Commencez par expliquer les caractéristiques des plantes candidates pour une agriculture lunaire (cf. annexe). Demandez leur ensuite de prendre connaissance des différentes caractéristiques détaillées sur chaque fiche et de faire un classement des meilleures plantes (top 3-5) lorsqu'il s'agira de faire pousser ces dernières dans l'espace. Ces choix devront êtres justifiés sur base des critères qui sont les plus importants, d'après eux, dans la balance lors de la sélection. 
@@ -118,7 +118,11 @@ Avec environ 400 000 espèces décrites, les plantes ont conquis presques tout l
 ---
 
 ### Conclusion
-Cette activité a permis aux élèves de réfléchir aux défis de l’agriculture en milieu lunaire. En choisissant des plantes adaptées et en identifiant les conditions nécessaires à leur culture, ils ont pris conscience des contraintes d’une autonomie alimentaire dans l’espace. Ce travail ouvre aussi une réflexion plus large sur la gestion des ressources et les liens entre agriculture spatiale et durabilité sur Terre.
+Cette activité a permis aux élèves de réfléchir aux défis de l’agriculture en milieu lunaire. En choisissant des plantes adaptées et en identifiant les conditions nécessaires à leur culture, ils ont pris conscience des contraintes d’une autonomie alimentaire dans l’espace. Ce travail ouvre aussi une réflexion plus large sur la gestion des ressources et les liens entre agriculture spatiale et durabilité sur Terre. 
+
+Comme nous avons pu le découvrir dans cette activité, les plantes occupent une place de choix quant à la sélection des aliments pouvant être produit par les astronautes dans l'espace comme c'est le cas à bord de l'ISS mais aussi dans une future colonie lunaire. Il y a cela dit quelques autres pistes également prometteuses que les scientifiques ont commencé à explorer, comme par exemple certains micro-organismes qui pourraient également être d'excellents candidats pour produire de la nourriture dans l'espace. Parmi eux, des micro-algues (ex: _Chlorella_) riches en protéines, divers minéraux et produisant en plus de l'oxygène très précieux pour les astronautes; des cyanobactéries (ex:_Arthrospira_, plus communément appelée spiruline) également riches en protéines et autres nutriments; plus récemment encore des chercheurs ont mis en évidence en 2023 l'utilisation de bactéries dites "électroactives", c'est à dire qu'elles sont capables d'utiliser les électrons de leur environnement pour leur croissance et qui, en plus d'avoir une haute qualité nutritive, peuvent également produire de l'électricité à partir de déchets générés par les astronautes et sans l'aide de lumière. Ces micro-organismes présentent un autre avantage commun, ils peuvent tous être cultivés en bioréacteur: un appareil reproduisant un environnement facilement controlable offrant des conditions de croissance optimales et une meilleure protection aux organismes cultivés que pourrait le faire une serre; mais ils ont également un inconvéniant commun, c'est qu'ils doivent être traités et transformé et sont pas directement consommables par les astronautes. 
+
+Pour terminer, les espaces confinés et la faible abondance de ressources dans l'espace ne permettent pas l'élevage des animaux typiquement consommés par l'homme. Il reste cela dit une classe d'animaux particulièrement diversifiée (comptant plus d'un million d'espèces décrites): les insectes. Malgré leur absence presque totale dans l'alimentation du monde occidental, les insectes sont consommés par beaucoup de peuples ailleurs dans le monde car ils sont souvent de très haute qualité nutritive. Les chercheurs sont [...]
 
 ---
 
